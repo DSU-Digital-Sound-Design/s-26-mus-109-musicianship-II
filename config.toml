@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = ["terminal", "reveal-hugo"]
-paginate = 5
+pagination.pagerSize = 5
 
 
 [params]
@@ -51,7 +51,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "MUS 109  Musicianship"
-      logoHomeLink = "/"
+      logoHomeLink = "/s-26-mus-109-musicianship-II/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
