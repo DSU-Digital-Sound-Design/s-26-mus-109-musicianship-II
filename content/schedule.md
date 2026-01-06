@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-date: "2021-01-02"
+date: "2026-01-02"
 author: ""
 ---
 
@@ -24,11 +24,12 @@ author: ""
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/)
 - `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
 
+<!-- 
 # Week 2 (1/20)
 
 ## Tuesday
 
-- No class - (out of town for Professional Development)
+- Update this 
 
 ## Thursday
 
@@ -192,7 +193,7 @@ author: ""
   
 ## Thursday
 
-- No Class 3/20 for MoxSonic Conference Festival Travel
+- No Class 3/19 for MoxSonic Conference Festival Travel
 
 # Week 11 (3/24)
 
@@ -205,7 +206,7 @@ author: ""
 
 ## Thursday
 
-- No class - I'll be out of town
+- update this 
 
 # Week 12 (3/31)
 
@@ -224,9 +225,9 @@ author: ""
 - Quiz 8 practice - Reverb 
   - Decay time & Pre-delay time & Mix 
 
-> [Final Paper](../assignments/final-paper/) - DUE Friday, May 2
+> [Final Paper](../assignments/final-paper/) - DUE Friday, May 1
 >
-> [Final Presentations](../assignments/final-presentation/) - April 17, 22, 24, 29
+> [Final Presentations](../assignments/final-presentation/) - April 16, 21, 23, 28
 
 # Week 13 (4/7)
 
@@ -237,7 +238,7 @@ author: ""
 - Student journal presentation 9 and discussion
   -  Cameron 
   -  Alex
--  Plan final presentation dates starting on April 17
+-  Plan final presentation dates starting on April 16
 
 > Note: Journals 8 and 9 are extra credit 
 
@@ -258,7 +259,7 @@ author: ""
 
 
 >
-> Final Exam - Thursday, May 2th, 10:30 am - 12:30 pm
+> Final Exam - ____
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
 ## Thursday
@@ -289,13 +290,5 @@ author: ""
   - Jordan 
   - Alex
 
-<!-- 
-## Thursday
-
-- Final Journal Presentations
-  - Owen 
-  - Michael 
-
-> Exam - May 8th 10:30 AM – 12:30 PM
 
  -->
