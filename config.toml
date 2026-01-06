@@ -51,7 +51,7 @@ pagination.pagerSize = 5
 
     [languages.en.params.logo]
       logoText = "MUS 109  Musicianship"
-      logoHomeLink = "/s-26-mus-109-musicianship-II/"
+      logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
