@@ -22,7 +22,12 @@ author: ""
 ## Thursday
 
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/)
-- `Quiz 0` - 1 octave, 1 band, + 12 dB, sound file, freq 500 to 2000 Hz
+- `Quiz 0` – EQ anchors (initial set)
+  - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
+  - **Bands:** 1
+  - **Gain:** +12 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Pink noise → one fixed music excerpt
 
 <!-- 
 # Week 2 (1/20)
@@ -47,22 +52,25 @@ author: ""
 
 ## Tuesday
 
-> Quiz 1
-> 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
+> Quiz 1 – EQ anchors (initial set)
+>
+> - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
+> - **Bands:** 1
+> - **Gain:** +12 dB only
+> - **Q:** Fixed (Q ≈ 2)
+> - **Source:** Pink noise → one fixed music excerpt
 
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
 ## Thursday
 
 - name that tune - 10 minutes
-- Quiz 2 (next Tuesday) practice - 10 minutes
-  - **1 octave, 1 band, - 12 dB, pink noise, sound file, freq 500 to 2000 Hz**
-  - Same parameters as last week, but a different sound file: [Longview](../lectures/week-3/7-corey/04%20Longview.m4a)
-  - Use Matching practice
-    - Practice with pink noise and set a timer for 3 minutes, then take a 2-minute break
-    - repeat several times each day
-    - do the same with the recording
-  - After you're comfortable with matching, move to matching memory, then absolute ID
+- Quiz 2 (next Tuesday) practice – EQ anchors, reduced gain
+  - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
+  - **Bands:** 1
+  - **Gain:** +6 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Same as Quiz 1
 - Finish - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/#/12) - 20 minutes
 
 
@@ -72,7 +80,13 @@ author: ""
 
 ## Tuesday
 
-> Quiz 2
+> Quiz 2 – EQ anchors, reduced gain
+>
+> - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
+> - **Bands:** 1
+> - **Gain:** +6 dB only
+> - **Q:** Fixed (Q ≈ 2)
+> - **Source:** Same as Quiz 1
 
 - 7.2 Analysis Examples
   - Sheryl Crow\: “Strong Enough”
@@ -88,16 +102,24 @@ author: ""
 - Two volunteers for next week's journal presentations?
 - _Name that tune_ - 10 minutes
 - Finish _Strong Enough_ analysis - 20 minutes
-- Quiz 3 practice
-  - Matching Memory
-  - Adding - 12 dB and a higher frequency range
-  - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
+- Quiz 3 practice – Expanded octave range
+  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+  - **Bands:** 1
+  - **Gain:** +12 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Pink noise + same music excerpt
 
 # Week 5 (2/10)
 
 ## Tuesday
 
-> Quiz 3 - **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 500 to 4000 Hz**
+> Quiz 3 – Expanded octave range
+>
+> - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+> - **Bands:** 1
+> - **Gain:** +12 dB only
+> - **Q:** Fixed (Q ≈ 2)
+> - **Source:** Pink noise + same music excerpt
 
 - First student journal presentations and discussion
   - Reiter (out sick - substitute?)
@@ -110,28 +132,38 @@ author: ""
 - [Questions to Guide Listening](../lectures/week-5/guided-listening/)
   - Pick a song and analyze it using the questions in the guided listening document
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
--  Quiz 4 Practice: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz** 
-   - Use the above parameters to practice with the song "In Your Eyes" by Peter Gabriel
-   - Or use another song of your choice! 
+- Quiz 4 Practice – Boost vs cut
+  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+  - **Bands:** 1
+  - **Gain:** ±12 dB
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Same as Quiz 3 
 
 # Week 6 (2/17)
 
 ## Tuesday
 
-> Quiz 4
+> Quiz 4 – Boost vs cut
+>
+> - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+> - **Bands:** 1
+> - **Gain:** ±12 dB
+> - **Q:** Fixed (Q ≈ 2)
+> - **Source:** Same as Quiz 3
 
 - Student journal presentations and discussion
-  - Cameron, Emmett 
-
-> Quiz 4: **1 octave, 1 band, +12 dB/- 12 dB, pink noise, sound file, freq 250 to 4000 Hz**
+  - Cameron, Emmett
 
 ## Thursday
 
 - name that tune - 10 min
 - Volunteers for next week's journal presentations?
-- Quiz 5 in class practice - 10 min
-  - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
-  - Use any sound file you want 
+- Quiz 5 in class practice – Full octave anchors
+  - **Frequencies:** 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, 16 kHz
+  - **Bands:** 1
+  - **Gain:** +12 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Music excerpts only (consistent per quiz) 
 - Moylan: 6 A System for Evaluating Sound - [Plotting Sources Against a Timeline](../lectures/week-6/moylan-6/)
 - Plotting an instrument's frequency content over time
   - pick a small section and choose a few important instruments
@@ -144,8 +176,12 @@ author: ""
 
 ## Tuesday
 
-- Quiz 5  - 10 min
-  - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 8000 Hz**
+- Quiz 5 – Full octave anchors
+  - **Frequencies:** 63 Hz, 125 Hz, 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, 16 kHz
+  - **Bands:** 1
+  - **Gain:** +12 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Music excerpts only (consistent per quiz)
 - Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
 - Student presentations 
@@ -156,7 +192,12 @@ author: ""
 
 - name that tune - 10 min
 - [Timbre and Spectral Balance](../lectures/week-7/timbre/)
-- Quiz 6 practice - - **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
+- Quiz 6 practice – Third-octave neighbors (single region)
+  - **Frequencies:** 800 Hz, 1 kHz, 1.25 kHz (or 1.6 kHz, 2 kHz, 2.5 kHz — choose one region)
+  - **Bands:** 1
+  - **Gain:** +12 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Pink noise → one music excerpt
 
 # Week 8 (3/3)
 
@@ -166,7 +207,13 @@ author: ""
   - Reiter
   - Zakry 
 
-> Quiz 6 -  **1 octave, 1 band, +12 dB/- 12 dB, sound file, freq 250 to 16000 Hz**
+> Quiz 6 – Third-octave neighbors (single region)
+>
+> - **Frequencies:** 800 Hz, 1 kHz, 1.25 kHz (or 1.6 kHz, 2 kHz, 2.5 kHz — choose one region)
+> - **Bands:** 1
+> - **Gain:** +12 dB only
+> - **Q:** Fixed (Q ≈ 2)
+> - **Source:** Pink noise → one music excerpt
 
 ## Thursday
 
@@ -185,8 +232,12 @@ author: ""
 
 - Look at the reverb module in WebTET
   - Decay time and Pre-delay practice
-  - Quiz 7 practice - Reverb
-  - Decay time & Pre-delay
+  - Quiz 7 practice – Two-band EQ (restricted anchors)
+  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+  - **Bands:** 2 simultaneous
+  - **Gain:** +9 to +12 dB (boosts only)
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Dense music excerpt (full mix or stem)
 - Who wants to present next week? 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
@@ -199,7 +250,12 @@ author: ""
 
 ## Tuesday
 
-- Quiz 7 Reverb - Decay time and Pre-delay practice 
+- Quiz 7 – Two-band EQ (restricted anchors)
+  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+  - **Bands:** 2 simultaneous
+  - **Gain:** +9 to +12 dB (boosts only)
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Dense music excerpt (full mix or stem) 
 - Holistic Environment presentations
   - Alex, Aiden 
 - No quiz next Tuesday
@@ -222,8 +278,13 @@ author: ""
 
 - Journal 9 - no need to turn in journals - but we'll keep doing presentations
 - [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
-- Quiz 8 practice - Reverb 
-  - Decay time & Pre-delay time & Mix 
+- Quiz 8 practice – Compression (threshold only)
+  - **Ratio:** Fixed (e.g., 4:1)
+  - **Attack:** Fixed (moderate, e.g., 20–30 ms)
+  - **Release:** Fixed (moderate, e.g., 100–200 ms)
+  - **Threshold:** 3 discrete settings (high / medium / low)
+  - **Makeup gain:** Matched (no loudness cue)
+  - **Source:** Percussive loop or rhythmic music excerpt 
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday, May 1
 >
@@ -233,8 +294,13 @@ author: ""
 
 ## Tuesday
 
-- Quiz 8 - Reverb
-  - Decay time & Pre-delay time & Mix
+- Quiz 8 – Compression (threshold only)
+  - **Ratio:** Fixed (e.g., 4:1)
+  - **Attack:** Fixed (moderate, e.g., 20–30 ms)
+  - **Release:** Fixed (moderate, e.g., 100–200 ms)
+  - **Threshold:** 3 discrete settings (high / medium / low)
+  - **Makeup gain:** Matched (no loudness cue)
+  - **Source:** Percussive loop or rhythmic music excerpt
 - Student journal presentation 9 and discussion
   -  Cameron 
   -  Alex
@@ -246,15 +312,31 @@ author: ""
 
 - Song pop party
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
-- Quiz 9 practice - Compression
-  - Snare drum
-    - 3 questions for each: attack, release, ratio
+- Quiz 9 practice – Reverb (two single-parameter passes)
+  - **Part A: Distance via level**
+    - Decay: Fixed (≈1.2 s)
+    - Predelay: Fixed (0 ms)
+    - Wet/dry mix: 3 discrete levels
+  - **Part B: Separation via predelay**
+    - Decay: Fixed
+    - Wet/dry mix: Fixed
+    - Predelay: 0 ms / ~20 ms / ~60 ms
+  - **Source:** Dry, transient-rich source (voice, snare, pluck)
 
 # Week 14 (4/14)
 
 ## Tuesday
 
-- Quiz 9 - Compression
+- Quiz 9 – Reverb (two single-parameter passes)
+  - **Part A: Distance via level**
+    - Decay: Fixed (≈1.2 s)
+    - Predelay: Fixed (0 ms)
+    - Wet/dry mix: 3 discrete levels
+  - **Part B: Separation via predelay**
+    - Decay: Fixed
+    - Wet/dry mix: Fixed
+    - Predelay: 0 ms / ~20 ms / ~60 ms
+  - **Source:** Dry, transient-rich source (voice, snare, pluck)
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 
 
