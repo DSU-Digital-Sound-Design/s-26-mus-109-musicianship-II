@@ -13,7 +13,6 @@ author: ""
 - Syllabus
 - Show how to access the course textbook.
 - [How do we evaluate and talk about sound?](../lectures/week-1/4-moylan/)
-- [Corey introduction](../lectures/week-1/0-corey/)
 
 > Homework
 >
@@ -21,6 +20,7 @@ author: ""
 
 ## Thursday
 
+- [Corey introduction](../lectures/week-1/0-corey/)
 - [Corey, Chapter 1: Listening](../lectures/week-1/1-corey/)
 - `Quiz 0` – EQ anchors (initial set)
   - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
