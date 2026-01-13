@@ -9,10 +9,10 @@ separator = "##"
 
 ## Critical Listening in Audio Engineering
 
-- The Role of Sound in Understanding the Environment
-- Observing Sound Characteristics in Different Spaces
-- Application in Audio Engineering
-- Key Factors in Critical Listening
+- Sound reveals information about our environment
+- Spaces shape sound in distinct ways
+- Engineers use listening skills to capture and shape audio
+- Critical listening focuses on specific sonic attributes
 
 {{% note %}}
 
@@ -25,33 +25,33 @@ separator = "##"
 
 ---
 
-#### Soundscape observation
+#### Soundscape Observation
 
-* What sounds are present at any given moment?
-* Besides the more obvious sounds, are there any constant, steady-state, sustained sounds, such as air handling noise or lights humming, that are usually ignored? Where is each sound located? Are the locations clear and distinct, or diffuse and ambiguous?
-* How far away are the sound sources?
-* How loud are they?
-* What is the character of the acoustic space? Are there any echoes? What is the reverberation decay time?
-It can be informative to aurally analyze recorded music
+* What sounds are present right now?
+* Are there subtle constant sounds (HVAC, lights humming)?
+* Where is each sound located—clear or diffuse?
+* How far away are the sources?
+* How loud are they relative to each other?
+* What is the acoustic character of the space (echoes, reverb)?
 
 ---
 
 ### Aural Analysis of Recorded Music
 
-* How is the timbre of the sound affected by the system and environment through which it is presented?
-* Are all of the elements of the sound clearly audible? If they are not, what elements are difficult to hear and which ones are most prominent?
-* If the music is familiar, does the balance seem the same as what has been heard in other listening situations?
+* How does the playback system/environment affect timbre?
+* Are all elements clearly audible? Which are prominent vs. buried?
+* Does the balance match what you've heard in other listening contexts?
 
 <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/426916/simple/small/" width="375" height="30"></iframe>
 
 ---
 
-## Understanding Technical Ear Training
+## Technical Ear Training
 
-- Definition and Importance
-- Key Components: Timbre, Dynamics, Spatial Attributes
-- Role in Audio Engineering
-- The Process of Developing Skills
+- Ear training tailored for audio professionals
+- Key components: timbre, dynamics, spatial attributes
+- Essential for studio, live sound, and audio tech roles
+- Developed through focused, deliberate practice
 
 {{% note %}}
 
@@ -66,9 +66,9 @@ It can be informative to aurally analyze recorded music
 
 ## Timbre
 
-- Spectral content. All frequencies present in a sound.
-- Spectral balance. The relative balance of individual frequencies or frequency ranges.
-- Amplitude envelope. Primarily the attack (or onset) and decay time of the overall sound, but also that of individual overtones.
+- **Spectral content** — all frequencies present in a sound
+- **Spectral balance** — relative levels of different frequency ranges
+- **Amplitude envelope** — attack, sustain, and decay characteristics
 
 {{% note %}}
 _Timbral ear training_ focuses on identifying sounds by their timbre.
@@ -79,7 +79,11 @@ _Timbral ear training_ focuses on identifying sounds by their timbre.
 
 ---
 
+### Example: Microphone Placement
+
 [Acoustic Bass Recordings](https://cambridge-mt.com/rs2/lmp/acoustic-bass-01/)
+
+Listen to the same bass recorded with different mic positions. Which sounds best for a given context?
 
 {{% note %}}
 
@@ -89,12 +93,12 @@ For example, [here](https://cambridge-mt.com/rs2/lmp/acoustic-bass-01/) are reco
 
 ---
 
-## TET Focus
+## Technical Ear Training Focus Areas
 
-- Equalization and filtering
-- Reverberation and delay
-- Dynamics processing
-- Characteristics of the stereo image
+- **EQ & filtering** — shaping frequency content
+- **Reverb & delay** — spatial and time-based effects
+- **Dynamics processing** — compression, limiting, expansion
+- **Stereo image** — width, panning, spatial placement
 
 {{% note %}}
 Technical ear training focuses on the features, characteristics, and sonic artifacts that are produced by various types of signal processing commonly used in audio engineering, such as the following:
@@ -110,10 +114,10 @@ Technical ear training focuses on the features, characteristics, and sonic artif
 
 ### Isomorphic Mapping
 
-- Understanding Subtle Changes in Sound
-- Isomorphic Mapping in Audio Technology
-- The Challenge of Relating Technical Parameters to Perceptual Attributes
-- The Importance of Ear Training in Audio Engineering
+- Connecting what you *hear* to what you *adjust*
+- Technical parameters → perceptual outcomes
+- Challenge: How does "boost 3kHz" translate to "brighter"?
+- Goal: Build internal mappings through practice
 
 {{% note %}}
 
@@ -126,12 +130,12 @@ Technical ear training focuses on the features, characteristics, and sonic artif
 
 ---
 
-## Enhancing Awareness in Technical Ear Training
+## Goal 1: Heightened Awareness
 
-- Goal: Enhancing Detail Awareness in Sound
-- Role of Decision-Making in Recording
-- Importance of Each Technical Aspect
-- Like painting
+- Discern subtle details in sound
+- Every decision (mic placement, levels, EQ) affects the final result
+- Early choices are often irreversible
+- Like painting: small strokes create the whole picture
 
 {{% note %}}
 
@@ -144,12 +148,12 @@ Technical ear training focuses on the features, characteristics, and sonic artif
 
 ---
 
-### Increasing Speed of Detection
+## Goal 2: Speed of Detection
 
-- Goal: Faster Identification and Adjustment
-- Impact on Recording and Mixing Efficiency
-- Cross-Skill Improvement in Critical Listening
-- Learning to Distinguish Between Equipment Characteristics
+- Identify issues and make adjustments quickly
+- Time is valuable in studio sessions
+- Skills transfer: EQ training improves compression listening
+- Adapt to unfamiliar equipment faster
 
 {{% note %}}
 
@@ -162,12 +166,12 @@ Technical ear training focuses on the features, characteristics, and sonic artif
 
 ---
 
-## The Art of Shaping Sounds in Recording
+## The Art of Shaping Sound
 
-- Timbre as a Distinctive Element in Recordings
-- Role of the Recording Studio in Sound Manipulation
-- Interrelated Adjustments in Mixing
-- The Limitations of Physical Measurement Tools
+- Timbre is often the most recognizable element of a recording
+- Studios create sonic landscapes beyond natural acoustics
+- Mixing is interconnected: one change affects everything else
+- Your ears are the most reliable tool—more than any meter
 
 {{% note %}}
 
