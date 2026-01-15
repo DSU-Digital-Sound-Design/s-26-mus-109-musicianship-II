@@ -5,10 +5,10 @@ author: ""
 ---
 
 {{< toc >}}
-<!-- test push -->
+
 # Week 1 (1/13)
 
-## Tuesday
+## Tuesday`
 
 - Syllabus
 - Show how to access the course textbook.
