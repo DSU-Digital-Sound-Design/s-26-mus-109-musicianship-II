@@ -29,25 +29,23 @@ author: ""
   - **Q:** Fixed (Q ≈ 2)
   - **Source:** Pink noise → one fixed music excerpt
 
-<!-- 
 # Week 2 (1/20)
 
 ## Tuesday
 
-- Update this 
+- [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
 
 ## Thursday
 
-- [Spectral Balance and Equalization](../lectures/week-2/2-corey/)
-  - Shaping Spectral Balance
-  - Types of Filters and
-  - Getting Started with Practice
+- Name that tune - 10 minutes 
+  - Each week we'll pick one song to use in our in-class EQ practice or analysis exercises
 - Working with the EQ Practice Module
   - Quiz 1 practice - the first real quiz will be on Tuesday
     - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
   - Practice singing vowel sounds as a class!
   - practice with other music from that Corey list?
 
+<!-- 
 # Week 3 (1/27)
 
 ## Tuesday
