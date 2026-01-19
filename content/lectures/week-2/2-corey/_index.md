@@ -11,28 +11,36 @@ separator = "##"
 
 ---
 
+## Harmonic Series (Reference)
+
 ![](../5-moylan/Harmonic_Series.png)
 
 {{% note %}}
-It may be a helpful tool for memorization to relate the frequencies we're listening for to pitches on the keyboard. These frequencies and pitches will not match exactly; this is because of the tuning of the keyboard and its difference from the harmonic series.
+- It can help memorization to relate the frequencies we’re listening for to pitches on the keyboard.
+- These won’t match *exactly* because equal temperament (keyboard tuning) differs from the harmonic series.
+- Goal for this unit: build reliable *frequency anchors* (even if the pitch mapping is approximate).
 {{%/ note %}}
 
 ---
 
-![](../5-moylan/250px-Harmonic_partials_on_strings.svg.png)
+## Harmonic Partials on a String
+
+<img src="Overtone.jpg" alt="Harmonic Partials on a String" width="400"/>
 
 {{% note %}}
-This series is generated from a smaller and smaller division of a string.
+- This shows how the harmonic series comes from a vibrating string dividing into halves, thirds, fourths, etc.
+- Each smaller division creates a higher partial (higher frequency).
 {{%/ note %}}
 
 ---
+
+## Piano Pitch vs Frequency Map
 
 ![](../5-moylan/fig5_2.jpg)
 
 {{% note %}}
-This chart shows the frequencies of each pitch on a piano keyboard along with frequency ranges.
-
-How do these pitches correspond to our ISO frequencies?
+- This chart maps piano pitches to frequencies (Hz) and rough frequency “regions”.
+- Question to keep in mind: which piano pitches sit near our ISO octave anchors (63, 125, 250, 500, 1k, 2k, 4k, 8k, 16k)?
 {{%/ note %}}
 
 ---
@@ -63,16 +71,15 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Spectral Balance
 
-> **Spectral balance** - an audio signal’s frequency content and the relative power of each frequency or frequency band across the audible range of frequencies, from 20 to 20,000 Hz.
+> **Spectral balance**: the distribution of energy across frequency bands from ~20 Hz to 20 kHz.
 
 {{% note %}}
 
 **Show white noise vs pink noise in Reaper with ReaEQ.**
 
-- Spectral balance refers to the distribution of power across different frequencies in an audio signal, crucial for sound quality in recording and production.
-- Equalizers are the primary tools used by engineers to adjust spectral balance, allowing for the enhancement or suppression of specific frequencies.
-- The spectral balance of an audio signal can be altered by various equipment, including microphones, preamplifiers, and vintage audio gear, each adding unique characteristics.
-- Audio engineers must develop acute listening skills and understanding of frequency content to make informed decisions on equalization, akin to being human spectral analyzers.
+- Translating terms: “boomy / thin / muddy / boxy / harsh / bright / dull” are all *spectral balance* descriptions.
+- We shape spectral balance most directly with EQ, but it’s influenced upstream (instrument, mic, placement, room) and downstream (monitors, room, level).
+- Use analyzers as a *second opinion*: your job is to learn what the frequency regions sound like so you can act quickly without staring at a graph.
 
 {{%/ note %}}
 
@@ -80,23 +87,25 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Tailoring Spectral Balance for Different Music Genres
 
-- Variability of Spectral Balance Across Music Genres
-- Listening Skills and Understanding of Equalization Parameters
-- Monitoring and Analyzing Spectral Balance in Recording
-- Limitations of Real-Time Spectral Analyzers
+- Different genres favor different balances (no single “correct” curve)
+- Use references and style expectations
+- Listen for masking (what disappears?) and buildup (what dominates?)
+- Use analyzers to confirm, not to decide
 
 {{% note %}}
 
-- The appropriate spectral balance differs across music genres, e.g., jazz vs. rock drumming, requiring genre-specific engineering approaches.
-- Engineers must possess refined listening abilities to discern frequency content and understand equalization parameters like frequency, gain, and Q.
-- Monitoring spectral balance involves assessing both individual and combined microphone signals throughout the recording process.
-- Real-time spectral analyzers, while helpful for novices, have limitations. Professionals rely more on auditory perception due to the dynamic nature of music signals and the inadequacy of visual spectral analysis tools in capturing the essence of audio signals.
+- Example: a jazz kit often wants more “air” and room, while a modern rock kit often wants more close-mic punch and controlled cymbal wash. Same instruments, different priorities.
+- When you EQ, always ask:
+  - What am I trying to hear more clearly?
+  - What is currently masking it?
+  - Am I fixing this with EQ, or is it better solved with mic choice/placement/level?
+- Real-time analyzers are useful for learning, but music is dynamic—your ears integrate over time in a way a snapshot plot doesn’t.
 
 {{%/ note %}}
 
 ---
 
-# Shaping Spectral balance
+# Shaping Spectral Balance
 
 ---
 
@@ -118,6 +127,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 - [Charm Studio microphone list](https://docs.google.com/presentation/d/130uChoUPV370sMNJEc02n41QXdygYUO5zVqAWKoa900/present#slide=id.g10e552eff57_0_0) - see frequency response patterns.
 - Compare [mic placement](https://cambridge-mt.com/rs2/lmp/) with a different instrument.
+- Listen for proximity effect and off-axis coloration.
 
 {{% note %}}
 
@@ -146,17 +156,19 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Role of Monitors and Loudspeakers in Audio Perception
 
-- Function of Monitors in Audio Engineering
-- Influence of Monitor and Loudspeaker Frequency Response
-- Techniques for Accurate Spectral Balance Assessment
-- Adjustments and Real-Time Analysis in Loudspeaker Response
+- Your monitors have a “sound” (frequency response)
+- Your room changes that sound (especially low end)
+- Cross-check: headphones / second speakers / references
+- Make decisions at consistent listening levels
 
 {{% note %}}
 
-- Monitors and loudspeakers act as crucial tools for audio engineers, providing the auditory window to recorded sounds.
-- The unique frequency response of each monitor and loudspeaker model can indirectly influence the engineer's perception of the audio signal's spectral balance.
-- Engineers often use multiple monitors and headphones to gain a comprehensive understanding of the true spectral balance of a recording.
-- Adjustments to loudspeaker response, including built-in filters and equalization, play a significant role in shaping the final sound. Real-time analyzers can assist in understanding a loudspeaker's frequency response in a specific room, but this response is influenced by room acoustics as well as the loudspeaker's characteristics.
+- “Flat” monitors don’t exist in practice—every playback system is a filter.
+- If your monitors dip at 2 kHz, you’ll be tempted to over-boost 2 kHz in your mix.
+- Best habits:
+  - Use reference tracks you know well.
+  - Check on headphones (removes most room influence).
+  - Keep a consistent monitoring level for EQ decisions.
 
 {{%/ note %}}
 
@@ -164,17 +176,19 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Control Room and Listening Room Acoustics
 
-- Impact of Room Dimensions and Acoustics
-- ITU Recommendations for Listening Environments - [PDF](https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf)
-- Role of Room Modes in Audio Perception
-- Techniques for Assessing and Compensating Acoustic Influence
+- Room modes reshape bass (peaks/nulls)
+- Reflections reshape clarity and imaging
+- Speaker + listener placement matters
+- Translation checks beat “perfect rooms”
 
 {{% note %}}
 
-- The physical and acoustical properties of control and listening rooms significantly affect the sound heard during audio monitoring.
-- ITU-R BS.1116 provides guidelines for creating acoustically neutral rooms, but completely reflection-free environments are not always ideal for realistic sound reproduction.
-- Room modes, particularly in the low-frequency range, are influenced by room dimensions and can create uneven frequency responses at different locations in the room.
-- Engineers utilize various techniques, like listening from different positions and using multiple speaker sets, to understand and mitigate the room's acoustic impact on the spectral balance. Listening in adjacent rooms or through different monitoring systems helps in achieving a mix that "translates" well across various sound systems, ensuring consistency and quality in diverse listening environments.
+- Low end is the biggest room problem: standing waves create big peaks and deep nulls depending on where you sit.
+- Practical strategies:
+  - Move your head: if the bass changes dramatically, you’re hearing the room.
+  - Use reference tracks and multiple playback systems to check translation.
+  - Consider basic treatment + thoughtful speaker/listener placement before overusing corrective EQ.
+- Optional reading: ITU-R BS.1116 (critical listening environments) - [PDF](https://www.itu.int/dms_pubrec/itu-r/rec/bs/R-REC-BS.1116-3-201502-I!!PDF-E.pdf)
 
 {{%/ note %}}
 
@@ -182,10 +196,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Sound Levels and Their Effect on Spectral Balance
 
-- Relationship Between Sound Levels and Perception
-- Influence of Equal-Loudness Contours
-- Adjusting Mixes at Different Sound Levels
-- Finding the Optimal Spectral Balance Across Varying Levels
+- Your ears change with volume (equal-loudness contours)
+- Do most EQ work at moderate/quiet levels
+- Check briefly loud (impact) and very quiet (balance)
+- Take breaks to avoid “ear drift”
 
 {{% note %}}
 
@@ -194,7 +208,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 - Mixing at high sound levels can lead to a skewed perception of low and high frequencies. Conversely, at lower levels, these frequencies might seem underrepresented.
 - Audio engineers should monitor and adjust mixes at various sound levels to achieve a balance that remains consistent and pleasing across a range of listening conditions. This approach helps compensate for the varying sensitivity of the human ear to different frequencies at different volumes.
 
-> Test - play a song very loud and then very soft. What do you notice?
+> Quick test: play a song very loud, then very soft. What changes first—bass, vocals, or cymbals?
 
 {{%/ note %}}
 
@@ -202,10 +216,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Types of Filters and Equalizers
 
-- Differentiating Filters and Equalizers
-- Types of Filters: High-Pass, Low-Pass, Band-Pass
-- Graphic Equalizers and Their Function
-- Parametric Equalizers for Precise Control
+- Filters remove; EQ boosts/cuts
+- Most common: high-pass, low-pass, shelving
+- Surgical control: parametric EQ (freq + gain + Q)
+- Visual + fixed bands: graphic EQ
 
 {{% note %}}
 
@@ -220,7 +234,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Filters: Low-Pass and High-Pass
 
-![](high-low-filter.png)
+<img src="high-low-filter.png" alt="High-Pass and Low-Pass Filters" width="600"/>
+
+- Cutoff frequency = “where it starts rolling off”
+- Slope = “how steep the rolloff is” (dB/oct)
 
 {{% note %}}
 
@@ -249,15 +266,14 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Parametric Equalizers
 
-- Definition and Capabilities of Parametric Equalizers
-- Control Over Center Frequency, Q, and Gain
-- Q Factor and Bandwidth Relationship
-- Variations and Limitations in Parametric Equalizer Design
+- Three knobs: frequency, gain, Q (bandwidth)
+- Low Q = wide changes; high Q = narrow changes
+- Use wide for tone shaping; narrow for problems
 
 {{% note %}}
 
 - Parametric equalizers, introduced by George Massenburg, offer finely tunable control over three key parameters: center frequency, Q (quality factor), and the level of boost or cut.
-- The Q factor, which inversely relates to the bandwidth of the equalization curve, is calculated using the formula Q = Fc/bandwidth, where Fc is the center frequency.
+- Q factor relates to bandwidth: higher Q = narrower band. (Sometimes written as `Q = Fc / bandwidth`.)
 - Despite the ideal of complete control, many parametric equalizers in practice have limitations. For example, Q may only be adjustable to preset values, and the center frequency selection might be restricted to specific choices.
 - Some designs link Q to the amount of gain, where minimal adjustments yield broader bandwidths, and maximum adjustments result in narrower bandwidths. These constraints can impact the flexibility and precision with which an engineer can shape the audio's spectral balance.
 
@@ -285,6 +301,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 [WebTET](https://webtet.net/apcl/#/about)
 
+- Practice a little, often (10–15 minutes)
+- Start with octave anchors (500 Hz–2 kHz)
+- Keep gain/Q fixed at first; focus on recognition
+
 {{% note %}}
 
 - Effective practice involves regular, focused sessions, ideally daily or several times a week. Shorter sessions (10-15 minutes initially, gradually increasing up to 45-60 minutes) are recommended to avoid fatigue and maximize learning efficiency. Even brief daily practices can be more beneficial than infrequent, prolonged sessions.
@@ -296,10 +316,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Practice Types in WebTET
 
-- Matching Mode for Equalization Duplication
-- Matching Memory Mode for Sound Memorization
-- Return to Flat Mode for Equalization Reversal
-- Absolute Identification Mode for Advanced Skill Development
+- Match (with reference)
+- Match (memory)
+- Return to flat (undo EQ)
+- Absolute ID (name the settings)
 
 {{% note %}}
 
@@ -312,12 +332,12 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ---
 
-## Frequency Resolution 
+## Frequency Resolution
 
-- Options for Frequency Resolution in Ear Training
-- Difference Between Octave and Third-Octave Frequencies
-- Strategy for Identifying Frequencies
-- Progression from Octave to Third-Octave Training
+- Start with 1 octave (9 anchors)
+- Add neighbors (1/3 octave) once anchors feel solid
+- Strategy: find the nearest octave, then refine
+- Example region: 800–1k–1.25k–1.6k–2k–2.5k
 
 {{% note %}}
 
@@ -325,22 +345,24 @@ Here's the ISO octaves and their equal tempered equivalents.
 - **1 Octave**: Easier, with 9 possible frequencies. Ideal for beginners to familiarize with basic frequency recognition.
 - **1/3rd Octave**: More challenging, encompassing 25 frequencies, including all octave frequencies plus additional frequencies between each octave pair.
 - A key strategy for mastering third-octave frequencies is to initially anchor to the nearest octave frequency. Once familiar with the nine octave frequencies, users can then progress to identifying the more nuanced third-octave frequencies.
-- Example: For 1000 Hz and 2000 Hz octave frequencies, the adjacent third-octave frequencies would be 2500 Hz (upper neighbor), 1600 Hz (lower neighbor) for 2000 Hz, and 1250 Hz (upper neighbor), 800 Hz (lower neighbor) for 1000 Hz. This approach helps in building a strong foundational understanding of frequency ranges.
+- Example: around 1 kHz and 2 kHz, the third-octave “neighbors” are 800, 1000, 1250, 1600, 2000, and 2500 Hz. Listen for which anchor you’re closest to, then decide if it’s the lower or upper neighbor.
 
 {{%/ note %}}
 
 ---
 
+## ISO Octave Frequencies (Cheat Sheet)
+
 ![](iso-freq.png)
 
 ---
 
-## Managing Frequency Range 
+## Managing Frequency Range
 
-- Setting Frequency Range Limits
-- Starting with Midrange Frequencies
-- Expanding Frequency Range Gradually
-- Challenges with Low-Frequency Identification
+- Start narrow (e.g., 500 Hz–2 kHz)
+- Expand outward one octave at a time
+- Low end is hardest (room + playback limits)
+- Headphones help, but have their own “curve”
 
 {{% note %}}
 
@@ -355,9 +377,10 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ## Working with the EQ Practice Module
 
-- Initial Setup and Listening to Octave Frequencies
-- Auditioning a Sound File and Identifying Instrumental Effects
-- Recognizing Frequency-Specific Effects on Different Recordings
+- Pink noise: learn the anchors
+- Music: notice what changes (kick, snare, vocals, cymbals)
+- Compare quickly: bypass vs EQ
+- Keep notes: what does 500/1k/2k “feel like”?
 
 {{% note %}}
 
@@ -370,7 +393,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 ---
 
 
-## Vowel method
+## Vowel Method (Octave Anchors)
 
 - 250 Hz = [u] as in boot
 - 500 Hz = [o] as in tow
@@ -394,6 +417,16 @@ Here's the ISO octaves and their equal tempered equivalents.
 - Blanchard, Terence. (2001). “On the Sunny Side of the Street” from Let’s Get Lost. Sony. (jazz with vocals)
 - Earth, Wind & Fire. (1998). “September” from Greatest Hits. Sony. (R&B pop)
 - Hellendaal, Pieter. (1991). “Concerto II—Presto” from 6 Concerti Grossi. Perf. The European Community Baroque Orchestra. Channel Classics. (Baroque orchestra)
+
+{{% note %}}
+
+- Pick one recording to become your “home base” reference for a few weeks so your ears learn what “normal” sounds like.
+- When practicing, focus on one question at a time:
+  - “What gets louder when I boost 500 Hz?”
+  - “What disappears when I cut 2 kHz?”
+- If you switch recordings every day, it’s harder to build stable anchors because the instrumentation and mix balance change.
+
+{{%/ note %}}
 
 ---
 
