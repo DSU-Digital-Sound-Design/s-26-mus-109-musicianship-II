@@ -14,7 +14,7 @@ separator = "##"
 ![](../5-moylan/Harmonic_Series.png)
 
 {{% note %}}
-It may be a helpful tool for memorization to relate the frequencies we're listening for to pitches on the keyboard. These frequencies and pitches will not match exactly, this is because of the tuning of the keyboard and its difference from the harmonic series.
+It may be a helpful tool for memorization to relate the frequencies we're listening for to pitches on the keyboard. These frequencies and pitches will not match exactly; this is because of the tuning of the keyboard and its difference from the harmonic series.
 {{%/ note %}}
 
 ---
@@ -247,7 +247,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ---
 
-##  Parametric Equalizers
+## Parametric Equalizers
 
 - Definition and Capabilities of Parametric Equalizers
 - Control Over Center Frequency, Q, and Gain
@@ -344,7 +344,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 {{% note %}}
 
-- In "TETPracticeEQ", users can limit the frequency range for practice, starting from a full range of 63 Hz to 16,000 Hz down to as narrow as three octaves.
+- In "WebTET", users can limit the frequency range for practice, starting from a full range of 63 Hz to 16,000 Hz down to as narrow as three octaves.
 - Beginners are advised to start with a limited midrange, such as 500 to 2000 Hz, mastering these frequencies before expanding the range.
 - As proficiency improves, users can gradually include more octaves, eventually working up to the full frequency range.
 - Identifying low frequencies (63 Hz to 250 Hz) can be particularly challenging due to factors like inconsistent levels in music recordings, limitations of sound reproduction systems, and room acoustics. Using headphones can mitigate issues caused by room acoustics, though their frequency response should be considered. For the best results, especially in low frequencies, selecting high-quality headphones with a flat response is crucial.
@@ -397,7 +397,7 @@ Here's the ISO octaves and their equal tempered equivalents.
 
 ---
 
-- Le Concert des Nations. (2002). “Marche pour la céré- monie” from Soundtrack from the film Tous les matins du monde. Alia Vox Spain. (Baroque orchestra)
-- Randall, Jon. (2005). Walking Among the Living. Epic/ Sony BMG Music Entertainment. (roots music/bluegrass)
-- Steely Dan. (2000). “Gaslighting Abbie” from Two Against Nature. Giant Records. (pop)
-  The Police. (1983). “Every Breath You Take” from Syn- chronicity. A&M Records. (rock)
+- Le Concert des Nations. (2002). "Marche pour la cérémonie" from Soundtrack from the film Tous les matins du monde. Alia Vox Spain. (Baroque orchestra)
+- Randall, Jon. (2005). Walking Among the Living. Epic/Sony BMG Music Entertainment. (roots music/bluegrass)
+- Steely Dan. (2000). "Gaslighting Abbie" from Two Against Nature. Giant Records. (pop)
+- The Police. (1983). "Every Breath You Take" from Synchronicity. A&M Records. (rock)
