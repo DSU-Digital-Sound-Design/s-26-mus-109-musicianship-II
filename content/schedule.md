@@ -37,13 +37,15 @@ author: ""
 
 ## Thursday
 
-- Name that tune - 10 minutes 
-  - Each week we'll pick one song to use in our in-class EQ practice or analysis exercises
-- Working with the EQ Practice Module
-  - Quiz 1 practice - the first real quiz will be on Tuesday
-    - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
-  - Practice singing vowel sounds as a class!
-  - practice with other music from that Corey list?
+- Meet in Beadle Hall 006 for [Pinnacle Productions](https://www.pinnacleprodj.com) visit
+- If weather prevent Pinnacle visit, we'll have class in our usual room and cover:
+  - Name that tune - 10 minutes 
+    - Each week we'll pick one song to use in our in-class EQ practice or analysis exercises
+  - Working with the EQ Practice Module
+    - Quiz 1 practice - the first real quiz will be on Tuesday
+      - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
+    - Practice singing vowel sounds as a class!
+    - practice with other music from that Corey list?
 
 <!-- 
 # Week 3 (1/27)
