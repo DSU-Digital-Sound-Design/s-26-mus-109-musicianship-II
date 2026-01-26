@@ -2,7 +2,7 @@
 title = "Analysis of Sound"
 outputs = ["Reveal"]
 [reveal_hugo]
-theme = "moon"
+theme = "serif"
 margin = 0.2
 separator = "##"
 +++
