@@ -52,14 +52,12 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 ## Analysis of Sound from Electroacoustic Sources
 
-- Analyze Sonic Signatures of artist, producer & engineer styles
-- Sound Quality Impact
-- Master Mix Elements
-  - Learn stereo imaging basics
-  - Study reverb, panning & EQ
-  - Develop equipment recognition
-
-
+- Identify sonic signatures (artist/producer/engineer)
+- Evaluate sound quality (fidelity, color, artifacts)
+- Break down mix decisions
+  - Stereo image (width, placement)
+  - Reverb, panning, EQ
+  - Possible equipment/technique cues
 
 {{% note %}}
 
@@ -88,7 +86,6 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
   - System components
   - Digital compression
   - Filtering effects
-
 
 {{% note %}}
 
@@ -185,7 +182,7 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
 
 - How wide or monophonic is the image?
 - What are the locations and widths of individual sound sources in a recording?
-- Are their locations stable and definite or ambiguous? 
+- Are the locations stable and definite or ambiguous?
 - How easily can the locations of sound sources be pinpointed within a stereo image?
 - Does the sound image appear to have the correct and appropriate spatial distribution of sound sources?
 
@@ -235,11 +232,9 @@ Knowing who helped create the recording can aid in the analysis of it. Look at s
   - Room characteristics
   - Depth perception
   - Direct vs. reflected sound
-
-
-> Key Focus:
-Natural vs. Artificial Space
-Foreground/Background Balance
+- Key focus:
+  - Natural vs. artificial space
+  - Foreground/background balance
 
 {{% note %}}
 
@@ -252,14 +247,14 @@ Foreground/Background Balance
 
 ---
 
-## Questions for spatial impression
+## Questions for spatial impression (room & depth)
 
 - Apparent room size:
   - How big is the room?
   - Is there more than one type of reverberation present in a recording?
   - Is the reverberation real or artificial?
   - What is the approximate reverberation time?
-  - Are there any echoes or long delays in the reverberation and early reflections?
+  - Are there any echoes or long delays in the reverb tail or early reflections?
 - Depth perspective: Are sounds placed up front clearly distinguished from those in the background?
 
 {{% note %}}
@@ -300,12 +295,12 @@ Foreground/Background Balance
   - Important for maintaining clarity of foreground elements
   - Helps create hierarchical importance in the mix through spatial placement
 
-Show some examples of different spaces in Reaper using \* [OpenAIR – Open Air Library](https://www.openairlib.net/)
+- Demo in Reaper: [OpenAIR – Open Air Library](https://www.openairlib.net/)
 {{%/ note %}}
 
 ---
 
-## Questions for spatial impression
+## Questions for spatial impression (reverb details)
 
 - What is the spectral balance of the reverberation?
 - What is the direct/reverberant ratio?
@@ -324,7 +319,7 @@ Classical music recordings can give listeners the opportunity to familiarize the
 
 ---
 
-##  Understanding Dynamic Range
+## Understanding Dynamic Range
 
 - Dynamic Range Elements:
   - Amplitude spectrum (soft to loud)
@@ -408,5 +403,3 @@ Classical music recordings can give listeners the opportunity to familiarize the
 - A trained listener's ability to discern subtle audio features and artifacts, which may go unnoticed by untrained ears, is crucial, especially in contexts like perceptual encoder algorithm development where identifying and addressing encoding shortcomings is essential.
 
 {{%/ note %}}
-
----

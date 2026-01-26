@@ -8,7 +8,7 @@ author: ""
 
 # Week 1 (1/13)
 
-## Tuesday`
+## Tuesday
 
 - Syllabus
 - Show how to access the course textbook.
@@ -38,19 +38,22 @@ author: ""
 ## Thursday
 
 - Meet in Beadle Hall 006 for [Pinnacle Productions](https://www.pinnacleprodj.com) visit
-- If weather prevent Pinnacle visit, we'll have class in our usual room and cover:
-  - Name that tune - 10 minutes 
+
+# Week 3 (1/27)
+
+## Tuesday
+
+- Quiz 1 postponed to Thursday because of Pinnacle visit last week
     - Each week we'll pick one song to use in our in-class EQ practice or analysis exercises
   - Working with the EQ Practice Module
     - Quiz 1 practice - the first real quiz will be on Tuesday
       - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
     - Practice singing vowel sounds as a class!
     - practice with other music from that Corey list?
+- Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
 <!-- 
-# Week 3 (1/27)
-
-## Tuesday
+## Thursday
 
 > Quiz 1 – EQ anchors (initial set)
 >
@@ -59,10 +62,6 @@ author: ""
 > - **Gain:** +12 dB only
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Pink noise → one fixed music excerpt
-
-- Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
-
-## Thursday
 
 - name that tune - 10 minutes
 - Quiz 2 (next Tuesday) practice – EQ anchors, reduced gain
