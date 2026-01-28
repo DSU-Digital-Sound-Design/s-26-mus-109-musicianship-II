@@ -52,7 +52,6 @@ author: ""
     - practice with other music from that Corey list?
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
 
-<!-- 
 ## Thursday
 
 > Quiz 1 – EQ anchors (initial set)
@@ -63,7 +62,6 @@ author: ""
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Pink noise → one fixed music excerpt
 
-- name that tune - 10 minutes
 - Quiz 2 (next Tuesday) practice – EQ anchors, reduced gain
   - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
   - **Bands:** 1
@@ -74,18 +72,12 @@ author: ""
 
 
 
+<!-- 
 
 # Week 4 (2/3)
 
 ## Tuesday
 
-> Quiz 2 – EQ anchors, reduced gain
->
-> - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
-> - **Bands:** 1
-> - **Gain:** +6 dB only
-> - **Q:** Fixed (Q ≈ 2)
-> - **Source:** Same as Quiz 1
 
 - 7.2 Analysis Examples
   - Sheryl Crow\: “Strong Enough”
