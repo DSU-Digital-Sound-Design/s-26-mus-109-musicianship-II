@@ -63,6 +63,7 @@ author: ""
 > - **Source:** Pink noise → one fixed music excerpt
 
 - Quiz 2 (next Tuesday) practice – EQ anchors, reduced gain
+  - **Practice Type:** Matching Memory
   - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
   - **Bands:** 1
   - **Gain:** +6 dB only
@@ -78,7 +79,7 @@ author: ""
 
 ## Tuesday
 
-
+- Quiz 2 
 - 7.2 Analysis Examples
   - Sheryl Crow\: “Strong Enough”
   - We'll listen to it in class, then read the analysis and talk more about it next week
