@@ -73,22 +73,24 @@ author: ""
 
 
 
-<!-- 
 
 # Week 4 (2/3)
 
 ## Tuesday
 
-- Quiz 2 
-- 7.2 Analysis Examples
-  - Sheryl Crow\: “Strong Enough”
-  - We'll listen to it in class, then read the analysis and talk more about it next week
+- Quiz 2 – EQ anchors, reduced gain
+  - **Frequencies:** 500 Hz, 1 kHz, 2 kHz
+  - **Bands:** 1
+  - **Gain:** +6 dB only
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Same as Quiz 1
 - discuss [Sheryl Crow: “Strong Enough”](../lectures/week-4/crow-strong-enough/)
 
 > Two volunteers for next week's journal presentations. You'll have about 15 minutes each to talk about your song analysis and answer questions.
 > 
 > More instructions on journals/presentations - [instructions](../assignments/journals/)
 
+<!-- 
 ## Thursday
 
 - Two volunteers for next week's journal presentations?
