@@ -116,8 +116,8 @@ author: ""
 > - **Source:** Pink noise + same music excerpt
 
 - First student journal presentations and discussion
-  - Reiter (out sick - substitute?)
-  - Jordan  
+  - Shea
+  - Millie 
 
 ## Thursday
 
