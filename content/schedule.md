@@ -90,10 +90,8 @@ author: ""
 > 
 > More instructions on journals/presentations - [instructions](../assignments/journals/)
 
-<!-- 
 ## Thursday
 
-- Two volunteers for next week's journal presentations?
 - _Name that tune_ - 10 minutes
 - Finish _Strong Enough_ analysis - 20 minutes
 - Quiz 3 practice – Expanded octave range
@@ -119,6 +117,7 @@ author: ""
   - Shea
   - Millie 
 
+<!-- 
 ## Thursday
 
 - Who wants to present next week?
