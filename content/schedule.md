@@ -113,15 +113,10 @@ author: ""
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Pink noise + same music excerpt
 
-- First student journal presentations and discussion
-  - Shea
-  - Millie 
 
-<!-- 
 ## Thursday
 
-- Who wants to present next week?
-- Name that Tune!
+- Name that Tune! / Heardle - 10 minutes
 - [Questions to Guide Listening](../lectures/week-5/guided-listening/)
   - Pick a song and analyze it using the questions in the guided listening document
 - [Peter Gabriel - In your eyes](../lectures/week-5/gabriel-in-your-eyes/) from Corey
@@ -144,9 +139,11 @@ author: ""
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Same as Quiz 3
 
-- Student journal presentations and discussion
-  - Cameron, Emmett
+- First student journal presentations and discussion
+  - Shea
+  - Millie 
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 min
