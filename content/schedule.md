@@ -175,7 +175,7 @@ author: ""
 - Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
 - Student presentations 
-  - Alex and Reiter (sort of)
+  - Justice, Tavone 
 
 
 ## Thursday
