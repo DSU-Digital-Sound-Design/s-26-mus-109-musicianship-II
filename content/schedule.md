@@ -152,7 +152,7 @@ author: ""
   - **Bands:** 1
   - **Gain:** +12 dB only
   - **Q:** Fixed (Q ≈ 2)
-  - **Source:** Music excerpts only (consistent per quiz) 
+  - **Source:** Music excerpts only 
 - Moylan: 6 A System for Evaluating Sound - [Plotting Sources Against a Timeline](../lectures/week-6/moylan-6/)
 - Plotting an instrument's frequency content over time
   - pick a small section and choose a few important instruments
