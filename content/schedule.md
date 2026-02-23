@@ -1,9 +1,8 @@
 ---
-title: "Schedule"
+title: Schedule
 date: "2026-01-02"
 author: ""
 ---
-
 {{< toc >}}
 
 # Week 1 (1/13)
@@ -47,7 +46,7 @@ author: ""
     - Each week we'll pick one song to use in our in-class EQ practice or analysis exercises
   - Working with the EQ Practice Module
     - Quiz 1 practice - the first real quiz will be on Tuesday
-      - 1 octave, 1 band, + 12 dB, pink noise and [sound file](../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
+      - 1 octave, 1 band, + 12 dB, pink noise and [kick-it.m4a](./../lectures/week-2/kick-it.m4a) (the "can I kick it" loop), freq 500 to 2000 Hz
     - Practice singing vowel sounds as a class!
     - practice with other music from that Corey list?
 - Chapter 7 - [Analysis of sound](../lectures/week-3/7-corey/)
@@ -92,8 +91,8 @@ author: ""
 
 ## Thursday
 
-- _Name that tune_ - 10 minutes
-- Finish _Strong Enough_ analysis - 20 minutes
+- *Name that tune* - 10 minutes
+- Finish *Strong Enough* analysis - 20 minutes
 - Quiz 3 practice – Expanded octave range
   - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
   - **Bands:** 1
@@ -158,10 +157,9 @@ author: ""
   - pick a small section and choose a few important instruments
   - use band and bandpass filters in Reaper to find the frequency ranges.
   - or view spectral peaks and add spectral edits to turn down the gains of small portions of the audio. Use this data to make your graphs more accurate.
-  - [my example](../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
-  - Follow along with me to make another graph for a different section of _In Your Eyes_
+  - [InYourEyesAnalysis.drawio.png](./../lectures/week-6/moylan-6/InYourEyesAnalysis.drawio.png)
+  - Follow along with me to make another graph for a different section of *In Your Eyes*
 
-<!-- 
 # Week 7 (2/24)
 
 ## Tuesday
@@ -171,12 +169,13 @@ author: ""
   - **Bands:** 1
   - **Gain:** +12 dB only
   - **Q:** Fixed (Q ≈ 2)
-  - **Source:** Music excerpts only (consistent per quiz)
+  - **Source:** Music excerpts only 
 - Reminder: 
   - [EBU Tech 3286-1997 Subjective evaluation of quality - Music programme - tech3286.pdf](https://tech.ebu.ch/docs/tech/tech3286.pdf)
 - Student presentations 
   - Justice, Tavone 
 
+<!-- 
 
 ## Thursday
 
