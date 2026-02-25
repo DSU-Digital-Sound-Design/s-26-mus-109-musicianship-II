@@ -175,7 +175,6 @@ author: ""
 - Student presentations 
   - Justice, Tavone 
 
-<!-- 
 
 ## Thursday
 
@@ -188,6 +187,7 @@ author: ""
   - **Q:** Fixed (Q ≈ 2)
   - **Source:** Pink noise → one music excerpt
 
+<!-- 
 # Week 8 (3/3)
 
 ## Tuesday
