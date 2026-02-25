@@ -180,8 +180,8 @@ author: ""
 
 - name that tune - 10 min
 - [Timbre and Spectral Balance](../lectures/week-7/timbre/)
-- Quiz 6 practice – Third-octave neighbors (single region)
-  - **Frequencies:** 800 Hz, 1 kHz, 1.25 kHz (or 1.6 kHz, 2 kHz, 2.5 kHz — choose one region)
+- Quiz 6 practice – Third-octave neighbors 
+  - **Frequencies:** 500 hZ - 2000 hZ 
   - **Bands:** 1
   - **Gain:** +12 dB only
   - **Q:** Fixed (Q ≈ 2)
@@ -196,9 +196,9 @@ author: ""
   - Reiter
   - Zakry 
 
-> Quiz 6 – Third-octave neighbors (single region)
+> Quiz 6 – Third-octave neighbors 
 >
-> - **Frequencies:** 800 Hz, 1 kHz, 1.25 kHz (or 1.6 kHz, 2 kHz, 2.5 kHz — choose one region)
+> - **Frequencies:** 500 hZ - 2000 hZ 
 > - **Bands:** 1
 > - **Gain:** +12 dB only
 > - **Q:** Fixed (Q ≈ 2)
