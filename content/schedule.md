@@ -187,14 +187,12 @@ author: ""
   - **Q:** Fixed (Q ≈ 2)
   - **Source:** Pink noise → one music excerpt
 
-<!-- 
 # Week 8 (3/3)
 
 ## Tuesday
 
-- Presentations 
-  - Reiter
-  - Zakry 
+- Presentations?
+  - Who hasn't gone yet? 
 
 > Quiz 6 – Third-octave neighbors 
 >
@@ -204,6 +202,7 @@ author: ""
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Pink noise → one music excerpt
 
+<!-- 
 ## Thursday
 
 - name that tune - 10 min
