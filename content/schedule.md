@@ -202,7 +202,6 @@ author: ""
 > - **Q:** Fixed (Q ≈ 2)
 > - **Source:** Pink noise → one music excerpt
 
-<!-- 
 ## Thursday
 
 - name that tune - 10 min
@@ -212,14 +211,8 @@ author: ""
 
 # Week 9 (3/10)
 
-- Spring Break - No Classes
-
-# Week 10 (3/17)
-
 ## Tuesday
 
-- Look at the reverb module in WebTET
-  - Decay time and Pre-delay practice
   - Quiz 7 practice – Two-band EQ (restricted anchors)
   - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
   - **Bands:** 2 simultaneous
@@ -232,7 +225,19 @@ author: ""
   
 ## Thursday
 
-- No Class 3/19 for MoxSonic Conference Festival Travel
+- heardle - 10 min
+- Quiz 7 practice – Two-band EQ (restricted anchors)
+  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
+  - **Bands:** 2 simultaneous
+  - **Gain:** +9 to +12 dB (boosts only)
+  - **Q:** Fixed (Q ≈ 2)
+  - **Source:** Dense music excerpt (full mix or stem)
+
+# Week 10 (3/17)
+
+- Spring Break - No Classes
+
+
 
 # Week 11 (3/24)
 
@@ -252,6 +257,7 @@ author: ""
 
 - update this 
 
+<!-- 
 # Week 12 (3/31)
 
 ## Tuesday
