@@ -11,17 +11,17 @@ separator = "##"
 ## The Illusion of Space as an Element of Recording
 
 
-- The artistic redefinition of space in recordings
-- The role of spatial properties in shaping sound
-- The significance of ecological perception in recording
-- Exploring spatial properties and listener engagement
+- Recordings create artificial spaces that don't exist in the real world
+- Spatial properties shape a track's sound alongside timbre
+- How we naturally perceive space affects how we hear recordings
+- Understanding spatial properties helps us analyze what makes a recording sound the way it does
 
 {{% note %}}
 
-- Every track reimagines the physics of space to enhance artistic expression, defying conventional acoustics to create unique auditory experiences.
-- Spatial properties, alongside timbre, are crucial in molding the overall sound and identity of a track, adhering to the principles of uniqueness and equivalence.
-- Ecological perception, as discussed in psychoacoustics, underscores the importance of understanding spatial properties through an ecological lens, offering insights into how listeners interpret and engage with music.
-- This exploration includes defining spatial properties, understanding the listener's point of audition, and addressing the challenges of perceiving the spatial attributes of sound, emphasizing their aesthetic value in crafting a track's reality and listener experience.
+- Every recording creates its own version of space. Sounds can seem to come from places that are physically impossible—this is a deliberate artistic choice, not a limitation.
+- Spatial properties (where sounds seem to be, how far away they feel, the sense of room or environment) work together with timbre to define a track's identity.
+- Ecological perception refers to how we naturally interpret spatial information using our everyday experience—things like judging distance by how reverberant a sound is. Understanding this helps explain why certain spatial effects in recordings feel convincing or disorienting.
+- In this lecture we'll define the key spatial properties, explore the concept of the listener's "point of audition," and discuss why perceiving space in recordings is challenging but essential for analysis.
 
 {{%/ note %}}
 
@@ -30,36 +30,36 @@ separator = "##"
 
 ## Hearing Invisible Sounds in Virtual Spaces
 
-- The unique challenge of engaging with spatial properties in music
-- Differences between everyday listening and listening to records
-- The role of acousmatic listening in understanding spatial properties
-- Developing skills to perceive spatial attributes without visual cues
+- Perceiving space in recordings is different from perceiving space in everyday life
+- In real life we rely heavily on sight to understand space; recordings remove that
+- Acousmatic listening: hearing sounds without seeing their source
+- We need to train our ears to notice spatial cues in recordings
 
 {{% note %}}
 
-- Listening to recordings demands a shift from our usual multimodal perception of space, highlighting the importance of spatial properties without the aid of visual confirmation.
-- In contrast to everyday experiences where visual cues dominate spatial understanding, listening to music focuses on spatial properties in the absence of visual support, challenging our conventional engagement with sound.
-- Acousmatic listening—focusing on sounds without seeing their source—requires a reorientation of our listening habits, emphasizing auditory cues over visual ones to identify and localize sounds.
-- Developing the ability to perceive spatial attributes in music requires relearning and sensitizing ourselves to sonic qualities that define space, distance, and orientation, thus enhancing our engagement with invisible sound sources in recordings.
+- In everyday life, we understand space using multiple senses—especially vision. When listening to a recording, we lose all visual information, so we must rely entirely on what we hear to perceive where sounds are located.
+- This is a real shift. Normally, if you hear a voice to your left, you can turn and see the person. In a recording, you hear a voice panned left, but there's no visible source—just a speaker. This makes spatial perception in recordings a learned skill.
+- Acousmatic listening means focusing on sounds without seeing what produces them. The term comes from Pythagoras, who supposedly lectured behind a curtain so students would focus on his words, not his appearance. In our context, it means learning to pay attention to spatial qualities (direction, distance, reverb) rather than defaulting to visual expectations.
+- To analyze spatial properties effectively, we need to sensitize ourselves to subtle cues—how much reverb suggests distance, how panning creates a sense of direction, how EQ changes can make something feel closer or farther away.
 
 {{%/ note %}}
 
 ---
 
 
-## Understanding Listener Perspective 
+## Understanding Listener Perspective
 
-- Defining the listener's point of audition
-- Impact of playback format on spatial perception
-- Differences between stereo, mono, and surround sound formats
-- Challenges and considerations in analyzing spatial properties
+- "Point of audition": the imaginary position from which you hear a recording
+- Playback format (stereo, mono, surround) changes what spatial information is available
+- Stereo is the most common format—two channels, left and right
+- Each format has different strengths and limitations for spatial analysis
 
 {{% note %}}
 
-- The listener's perspective, or "point of audition," is a conceptual location from which the spatial properties of a track are observed and analyzed, offering a stable point of reference for understanding the spatial relationships within a recording.
-- Playback format significantly influences how spatial properties are perceived, with stereo sound being the most common format for music consumption, characterized by two independent channels that provide a distinct spatial experience.
-- Mono and surround sound represent alternative formats, each offering different challenges and opportunities for analyzing spatial properties; mono focuses on distance and depth without the directional cues of stereo, while surround sound offers a more immersive experience with multiple directions of sound.
-- Analyzing spatial properties requires an understanding of how each playback format shapes the listener's experience, necessitating a shift in analytical approach to account for the unique spatial dynamics of stereo, mono, and surround sound, and recognizing the limitations and possibilities inherent in each.
+- The "point of audition" is like a camera angle, but for your ears. It's the conceptual position from which you experience a track's spatial layout. When analyzing a recording, this gives you a stable reference point—you're always "sitting" in the same spot relative to the sounds.
+- Stereo is what most people listen to: two independent channels (left and right) that create a sound field between and slightly beyond the speakers. Most spatial analysis in this course focuses on stereo.
+- Mono collapses everything to a single channel, so there's no left-right information—but you can still perceive distance and depth through volume and reverb. Surround sound (5.1, 7.1, Atmos) adds channels behind and above the listener, creating a more immersive spatial experience.
+- When analyzing spatial properties, you need to account for which format you're listening in. A track mixed for stereo will sound different in mono (some spatial information is lost) and different again in surround (spatial information may be expanded or redistributed).
 
 {{%/ note %}}
 
@@ -71,20 +71,20 @@ separator = "##"
 
 ## Spatial Properties
 
-- Creating synthetic spaces and pseudo-realities in recordings
-- The illusion of sounds in space: direction, distance, and size
-- Categories of spatial properties: 
-  - Angular direction, 
-  - distance, 
-  - and environment dimensions
-- Interaction and complementation of spatial attributes
+- Recordings create artificial spaces—sounds can come from "impossible" locations
+- Three main illusions: direction, distance, and size of sounds
+- Categories of spatial properties:
+  - Angular direction and width (left-right positioning)
+  - Distance and depth (how far away something sounds)
+  - Environment (the perceived room or space)
+- These properties interact to create the overall spatial impression
 
 {{% note %}}
 
-- Spatial properties in music production can conjure up a synthetic space, presenting a pseudo-reality where sounds originate from impossible locations, offering listeners a unique auditory experience that transcends real-world limitations.
-- Through the use of sonic illusions, sounds can be perceived to come from specific directions, distances, and even appear to have size within a virtual space, allowing for a dynamic and immersive listening experience that defies physical constraints.
-- These properties are categorized into angular direction and width (how sound is positioned around the listener), the span of distance and depth (how far away the sound seems), and the dimensions of the environment (the perceived space where the sound originates, both specific to the sound and the track as a whole).
-- The attributes of these spatial properties work together to create a cohesive sonic environment, interacting in ways that enhance the listener's perception of the track, making the experience of listening both complex and captivating.
+- A recording can place a singer right in front of you while drums seem 20 feet away in a cathedral—a space that doesn't physically exist. This synthetic, constructed space is one of the most powerful creative tools in music production.
+- Direction means where a sound seems to come from (left, right, center). Distance is how far away it feels. Size refers to whether a sound seems like a tiny point or a wide, spread-out presence. These are all illusions created by mixing techniques like panning, reverb, and EQ.
+- Angular direction and width describe horizontal positioning—where between left and right a sound sits, and how wide it appears. Distance and depth describe how close or far a sound feels. Environment describes the perceived acoustic space—a tight room, a concert hall, an open field.
+- These categories don't operate in isolation. A sound panned hard left with lots of reverb creates a very different impression than the same sound panned center and dry. The interplay between direction, distance, and environment is what gives a recording its unique spatial character.
 
 {{%/ note %}}
 
@@ -92,10 +92,10 @@ separator = "##"
 
 ## Spatial Properties and Levels of Perspective
 
-- Three levels of perspective
-  - Individual sound sources and their attributes
-  - Composite texture of interrelationships of sound sources
-  - Overall sound
+- Three levels of perspective:
+  - **Individual sources**: where is each sound placed?
+  - **Composite texture**: how do sources relate to each other spatially?
+  - **Overall sound**: what is the total spatial impression of the track?
 
 ---
 
@@ -104,10 +104,10 @@ separator = "##"
 
 {{% note %}}
 
-- The spatial identity of individual sound sources is determined by their lateral placement, distance from the listener, and the specific environmental characteristics they are perceived to occupy. This virtual aural image adds depth and dimensionality, making each sound unique within the track.
-- In a composite texture, sources interact at a level of equal significance, with their spatial relationships enhancing the listener's perception of the track's overall texture and depth. The concept of equivalence applies here, emphasizing the balanced attention to each sound source within the spatial framework.
-- The evaluation of the sound stage involves analyzing how sound sources are grouped or isolated across the stereo field, affecting the track's density and the listener's engagement with the music. These groupings create a dynamic interplay of musical and spatial elements, contributing to the track's complexity.
-- Dynamic host environments, where each sound source occupies a unique or surreal space, interact with each other, contributing to the perception of distance and depth. This complex network of relationships between the host environments of different sources shapes the auditory landscape of the track, creating a rich and engaging listening experience.
+- At the individual level, each sound source has its own spatial identity: where it sits left-to-right (lateral placement), how far away it seems (distance), and what kind of space it appears to be in (its environment or "room"). Together these create a virtual image for each sound.
+- At the composite level, we look at how sources relate to each other. Are the vocals up front and the guitar behind? Are instruments spread across the stereo field or clustered together? These relationships create the track's spatial texture.
+- The sound stage is the overall "picture" of where everything sits. Analyzing it means looking at how sources are grouped or isolated across the stereo field—whether the mix feels wide or narrow, dense or spacious.
+- Each sound source can appear to occupy its own unique acoustic environment (e.g., a drum in a tight room, a voice in a hall). These individual environments interact and overlap, creating the track's overall sense of space and depth.
 
 {{%/ note %}}
 
@@ -115,19 +115,19 @@ separator = "##"
 ---
 
 
-## Integrating Spatial Dimensions 
+## Integrating Spatial Dimensions
 
-- Composite texture and spatial interaction of sound sources
-- Sound stage dimensions: Width, depth, and listener distance
-- Holistic environment: The aggregate spatial context of a track
-- Challenges of incorporating elevation into stereo recordings
+- How individual sound sources combine into a composite spatial texture
+- Sound stage dimensions: width, depth, and distance from the listener
+- Holistic environment: the total spatial world of the track
+- Elevation (height) is difficult to achieve in stereo
 
 {{% note %}}
 
-- At the composite texture level, the interaction among sound sources and their spatial dimensions is critically assessed, highlighting how individual sound elements coalesce within the broader spatial framework of a track.
-- The sound stage, defined by its width and depth as well as the distance of sound sources from the listener, varies significantly across tracks, offering a diverse range of auditory experiences. This stage serves as a spatial boundary within which sound sources are positioned and interact.
-- The holistic environment concept encapsulates the entire spatial narrative of a track, merging individual sound source environments and the sound stage into a comprehensive, often surreal, spatial setting. This global environment contains all spatial properties, providing a contextual foundation for the track's spatial dynamics.
-- Incorporating elevation, or vertical sound placement, into stereo recordings poses technical challenges due to the limitations of stereo's horizontal plane. While surround sound formats introduce the possibility of vertical dimensionality through additional channels, stereo records primarily rely on lateral and depth cues for spatial representation.
+- At the composite level, we analyze how all the individual spatial elements add up. How do the positions, distances, and environments of each source combine to create the track's overall spatial feel?
+- The sound stage is like a virtual "frame" defined by its width (left-to-right spread), depth (front-to-back layering), and the distance between the closest and farthest sound sources. Different tracks create very different sound stages—some feel wide and deep, others tight and intimate.
+- The holistic environment is the big picture: the total spatial world that the track creates. It combines every individual source's environment and the overall sound stage into one unified (and often unrealistic) space. Think of it as the "room" the entire track seems to exist in.
+- Stereo only gives us left-right and near-far information—it can't reliably create a sense of height. Surround formats like Dolby Atmos add overhead speakers to introduce vertical placement, but standard stereo recordings are limited to the horizontal plane.
 
 {{%/ note %}}
 
@@ -139,17 +139,17 @@ separator = "##"
 
 ## STEREO LOCATION: ANGULAR DIRECTION AND IMAGE WIDTH
 
-- Lateral positioning and perception in stereo recordings
-- Creating illusions of sound placement within the stereo field
-- The concept of phantom images in sound source localization
-- Defining the width of the sound stage through lateral placement
+- Lateral position: where a sound sits between left and right
+- Stereo creates the illusion of sound coming from places where no speaker exists
+- Phantom images: sounds that appear to originate between the two speakers
+- The sound stage width is defined by the leftmost and rightmost sounds
 
 {{% note %}}
 
-- Lateral location, or the perceived position of sound sources within the stereo field, is often the first aspect considered when discussing a record's spatial properties. This encompasses how sounds are positioned left or right of the listener's central focus, within the boundaries defined by the stereo speaker setup.
-- The illusion of sound placement, where sounds appear to emanate from positions without a physical source, is a hallmark of stereo sound. These illusions are created through the interaction of the left and right stereo channels, crafting phantom images that can be perceived anywhere between and slightly beyond the two loudspeakers.
-- Phantom images represent a core technique in stereo mixing, allowing sound sources to be perceived in locations where there are no physical speakers. This effect enhances the spatial dimensionality of a track by creating a wider and more immersive sound stage.
-- The sound stage width is determined by the lateral extremities of sound source placements within the stereo field. The furthest left and right sound source images define the lateral boundaries of the sound stage, contributing to the overall spatial impression of a recording.
+- When we talk about a recording's spatial properties, left-right positioning (lateral location) is usually the first thing we notice. In a stereo setup, sounds can be placed anywhere from hard left to hard right using panning.
+- The key trick of stereo is that sounds seem to come from locations where there is no physical speaker. If you send a signal equally to both left and right speakers, you hear it in the center—even though there's no center speaker. This is a phantom image.
+- Phantom images are fundamental to stereo mixing. By adjusting the balance between the left and right channels, engineers can place a sound anywhere across the stereo field. The sound appears to exist at a specific point in space between (and sometimes slightly beyond) the speakers.
+- The sound stage width is determined by the positions of the leftmost and rightmost sounds in the mix. A track where everything clusters near the center has a narrow sound stage; one that uses the full left-to-right range has a wide sound stage.
 
 {{%/ note %}}
 
@@ -161,17 +161,17 @@ separator = "##"
 
 ## Psychoacoustics of Stereo Sound Localization
 
-- Fundamentals of perceiving direction and phantom images
-- Interaural cues essential for sound localization
-- Importance of spectral content in source localization
-- Challenges and nuances of assessing stereo localization
+- Our brains use differences between our two ears to locate sounds
+- Three key cues: timing differences (ITD), volume differences (IAD), and spectral differences (ISD)
+- Higher frequencies are easier to localize than lower frequencies
+- Headphones vs. speakers create different spatial experiences
 
 {{% note %}}
 
-- Understanding how we perceive sound direction in stereo recordings involves grasping the psychoacoustic principles behind sound localization, where interaural time differences (ITD), interaural amplitude differences (IAD), and interaural spectral differences (ISD) play pivotal roles. These cues, influenced by the differences in sound waves received by each ear, are crucial for identifying the lateral position of sound sources within the stereo field.
-- ITD and IAD are primary cues for localization, with ITD focusing on the timing of sound arrival to each ear and IAD on the intensity levels. Spectral content, altered by the unique shape and structure of our outer ears, provides additional cues, especially in frequency ranges where ITD and IAD are less effective.
-- The specific frequency content of a sound source can significantly influence its perceived location. For example, high-frequency components in a sound's attack may enable more precise localization, even for sources with predominantly low-frequency content.
-- Accurately identifying the lateral positions of sound sources in a stereo mix requires careful consideration of how these interaural cues interact, taking into account individual physiological differences and the potential for variations in hearing acuity between ears. Additionally, the listening environment, whether through headphones or loudspeakers, can dramatically alter the perception of spatial properties, emphasizing the importance of a consistent and accurate point of audition for effective analysis of stereo sound localization.
+- We perceive sound direction by comparing what each ear receives. Three types of differences help us localize sounds: Interaural Time Difference (ITD)—a sound from the left reaches the left ear slightly before the right; Interaural Amplitude Difference (IAD)—a sound from the left is louder in the left ear; and Interaural Spectral Difference (ISD)—the shape of our outer ears filters frequencies differently depending on direction.
+- ITD works best for low frequencies (below ~1500 Hz), while IAD is more effective for high frequencies. ISD provides additional directional cues across all frequencies, which is why the shape of your ears actually matters for spatial hearing.
+- Frequency content affects how precisely we can locate a sound. High-frequency sounds (like a hi-hat or a consonant in speech) are easier to pinpoint. This is why even a bass-heavy instrument can be localized if its attack contains high-frequency transients.
+- Whether you listen on headphones or speakers changes spatial perception significantly. Headphones place sound inside your head, while speakers create an external sound field. For consistent analysis, it's important to use the same playback method and maintain a stable listening position (your point of audition).
 
 {{%/ note %}}
 
@@ -180,19 +180,19 @@ separator = "##"
 
 ## Image Width
 
-- Shifting Width - Phil Collins’ “In the Air Tonight” (1981)
-- Point sources - Paul Simon’s Graceland (1986)
-  - Gumboots - electric guitar sounds in the introduction
-  - Crazy Love II
-  - Under Africa Skys
-- Spread image - Beatles’ “She Came in Through the Bathroom Window” (Abbey Road 1969, 1987).
+- Shifting width - Phil Collins’ “In the Air Tonight” (1981)
+- Point sources - Paul Simon’s *Graceland* (1986)
+  - “Gumboots” - electric guitar sounds in the introduction
+  - “Crazy Love, Vol. II”
+  - “Under African Skies”
+- Spread image - Beatles’ “She Came in Through the Bathroom Window” (*Abbey Road*, 1969, 1987)
 
 {{% note %}}
 
-- Image width in stereo recordings is a subtle yet significant property that often goes unnoticed due to its rarity in natural listening experiences. This dimension provides the illusion of physical size to sound sources, with aural images having discernible left and right boundaries that can span anywhere from the entire stereo field to a pinpoint location.
-- Point source images are very narrow, focusing sound in a concentrated spot, and are more commonly associated with high-frequency sounds due to their directional nature. Examples from Paul Simon's *Graceland* illustrate both point sources and their subtle expansion through reverberation, highlighting the nuanced use of width in recording.
-- Spread images, on the other hand, occupy a wider area within the stereo field, defined by their left and right edges. These images can sometimes appear split across the stereo field, creating a distinct spatial effect, as seen in certain tracks by The Beatles.
-- The width of an image significantly contributes to the spatial identity of sound sources within a track, affecting their presence and interaction. Width can be influenced by various factors including amplitude, timbre, and environmental attributes of the sound source. This aspect of sound can dramatically influence the perceived realism of a track, allowing for creative manipulation of spatial properties to enhance the listening experience.
+- Image width refers to how wide or narrow a sound appears in the stereo field. A sound can seem like a tiny point in one spot, or it can spread across a wide area. This is different from position (where the sound is)—width is about how much space the sound occupies.
+- A point source is a narrow image concentrated in one location, like a single instrument panned to one spot. In Paul Simon’s *Graceland*, listen for the electric guitar in “Gumboots”—it sits as a tight point source. Reverb can slightly widen a point source, giving it a small sense of space around it.
+- A spread image takes up a wider area in the stereo field, with distinct left and right edges. In the Beatles’ “She Came in Through the Bathroom Window,” some instruments are spread across the field rather than pinpointed, creating a broader spatial presence.
+- Width is shaped by several factors: volume, timbre, reverb, and how a sound is mixed across the two channels. A sound doubled and panned to both sides will appear very wide; the same sound in a single channel will feel like a point. Engineers use width creatively to give certain sounds more prominence or to create contrast between elements in a mix.
 
 {{%/ note %}}
 
