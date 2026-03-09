@@ -213,12 +213,7 @@ author: ""
 
 ## Tuesday
 
-  - Quiz 7 practice – Two-band EQ (restricted anchors)
-  - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
-  - **Bands:** 2 simultaneous
-  - **Gain:** +9 to +12 dB (boosts only)
-  - **Q:** Fixed (Q ≈ 2)
-  - **Source:** Dense music excerpt (full mix or stem)
+- Presentations? 
 - Who wants to present next week? 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
@@ -237,8 +232,6 @@ author: ""
 
 - Spring Break - No Classes
 
-
-
 # Week 11 (3/24)
 
 ## Tuesday
@@ -250,12 +243,12 @@ author: ""
   - **Q:** Fixed (Q ≈ 2)
   - **Source:** Dense music excerpt (full mix or stem) 
 - Holistic Environment presentations
-  - Alex, Aiden 
+  - ?
 - No quiz next Tuesday
 
 ## Thursday
 
-- update this 
+- Heardle - 10 min
 
 <!-- 
 # Week 12 (3/31)
