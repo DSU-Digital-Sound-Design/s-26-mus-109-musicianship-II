@@ -11,10 +11,7 @@ Here are some more modern examples that illustrate various aspects of spatial il
   - Uses formant-shifted vocals processed with spatial modulation.
   - Feels intimate but dynamically shifts in width, creating an immersive, shifting stereo image.
   - <iframe width="560" height="315" src="https://www.youtube.com/embed/P_Fx1yq3A8M?si=ImCt_Yd0nOzj0lXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- **Frank Ocean – "Nikes" (2016)**
-  - Multiple vocal layers with different spatial placements—some dry and close, others heavily reverbed and distant.
-  - Gives a floating, surreal quality to the track.
-  - <iframe width="560" height="315" src="https://www.youtube.com/embed/diIFhc_Kzng?si=m9mRHOuZWZJow1NB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### **Point Sources & Minimalist Spatial Design**
 - **Billie Eilish – "bury a friend" (2019)**
