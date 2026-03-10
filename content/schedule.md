@@ -213,7 +213,7 @@ author: ""
 
 ## Tuesday
 
-- Presentations? 
+- Colby, Dylan
 - Who wants to present next week? 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
