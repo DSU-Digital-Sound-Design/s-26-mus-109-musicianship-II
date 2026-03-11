@@ -221,6 +221,7 @@ author: ""
 ## Thursday
 
 - heardle - 10 min
+- [Spot the Two Bands](../lectures/week-9/spot-the-two-bands/) — ear warm-up activity (10–15 min)
 - Quiz 7 practice – Two-band EQ (restricted anchors)
   - **Frequencies:** 250 Hz, 500 Hz, 1 kHz, 2 kHz, 4 kHz
   - **Bands:** 2 simultaneous
