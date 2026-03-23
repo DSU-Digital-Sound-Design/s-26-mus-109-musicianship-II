@@ -258,6 +258,7 @@ author: ""
 
 - Student journal presentation 8 and discussion
   - David, Jordan
+- Reverb Quiz Practice 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
   
