@@ -249,7 +249,7 @@ author: ""
 
 ## Thursday
 
-- Heardle - 10 min
+- Research Week Symposium, no class 
 
 <!-- 
 # Week 12 (3/31)
