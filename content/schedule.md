@@ -251,17 +251,17 @@ author: ""
 
 - Research Week Symposium, no class 
 
-<!-- 
 # Week 12 (3/31)
 
 ## Tuesday
 
 - Student journal presentation 8 and discussion
-  - David, Jordan
+  - Dylan, Shea
 - Reverb Quiz Practice 
 - More listening to space and creating diagrams
   - [Listening Examples](../lectures/week-10/spatial-examples/)
   
+<!-- 
 
 ## Thursday
 
