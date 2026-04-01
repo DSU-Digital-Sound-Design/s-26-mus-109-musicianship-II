@@ -4,26 +4,29 @@ title: "Final Analysis Paper Instructions"
 
 **Objective:**
 
-In this paper, you will compare and contrast the recordings from your previous five listening journal entries. The goal is to demonstrate your understanding of the topics covered throughout the semester by analyzing and visually representing the similarities and differences between the selected recordings. Additionally, you will choose an overarching analysis topic to tie your individual recording analyses together, making an overall argument about the recordings.
+In this paper, you will compare and contrast recordings from your listening journal entries, demonstrating your understanding of semester topics by analyzing the recordings and diagramming their similarities and differences. You will also choose an overarching analysis topic that unifies your individual analyses into a cohesive argument.
 
 **Instructions:**
 
 1. Choose at least three recordings from your listening journal entries for analysis.
-2. **Select an overarching analysis topic that will tie your individual recording analyses together.** For example, you might argue that all the recordings use reverb and space in differing ways, yet still create clear mixes in their respective contexts. This topic should be something you can explore and support through your analysis of each recording.
-3. Explore relevant topics covered in the semester, referring to the [Analysis of sound](https://tatecarson.github.io/s-24-mus-109-musicianship-II/lectures/week-3/7-corey/#/). presentation for guidance.
-4. Revise and expand upon your original analyses from the listening journal entries, reflecting your current understanding of the subject matter and how each recording relates to your overarching analysis topic.
+2. **Select an overarching analysis topic that will unify your individual recording analyses.** This is an argument about something all your recordings share, contrast, or illustrate. For example:
+   - The recordings use reverb and space differently, yet each achieves a clear mix in its genre context.
+   - The recordings span from dense, compressed mixes to open, and more dynamic ones.
+   - The recordings handle low-frequency energy in distinct ways, reflecting the production conventions of each genre.
+3. Refer to the [Analysis of sound](../lectures/week-3/7-corey/#/) presentation for guidance on course topics to address.
+4. Revise and expand upon your original analyses from the listening journal entries, reflecting your current understanding of the subject matter.
 5. Create a minimum of four diagrams to visually illustrate the similarities and differences between the recordings, as well as support your overall argument. Use at least three different diagram types, such as frequency plots, holistic sound stages, and stereo image graphs.
-6. Reference the diagrams within the text of your paper using figure numbers. Instructions for doing this can be found here: [Automate Figure numbers in Word - Microsoft Community](https://answers.microsoft.com/en-us/msoffice/forum/all/automate-figure-numbers-in-word/9927e919-e10a-4da6-9c55-526f73f453b7).
+6. Reference the diagrams within the text of your paper using figure numbers. See the [linked guide](https://answers.microsoft.com/en-us/msoffice/forum/all/automate-figure-numbers-in-word/9927e919-e10a-4da6-9c55-526f73f453b7) for instructions on automating figure numbers in Word.
 7. When describing aspects of the recordings, include specific timestamps for clarity.
 
 **Requirements:**
 
 - Word count: Approximately 1,000 words
-- Diagrams: Include three of the four diagram types learned in class (frequency plot, holistic sound stage, stereo image graph, and loudness graph)
+- Diagrams: Include at least four diagrams using at least three different diagram types (frequency plot, holistic sound stage, stereo image graph, loudness graph)
 - Audio format: Use uncompressed recordings (WAV, FLAC, etc.) for analysis; MP3s are not accepted
 - Software: Submit Reaper files used for analysis
 
-Submission Deadline: April 27th
+**Submission Deadline:** April 27th
 
 
 ## Final Analysis Paper Rubric (50 points)

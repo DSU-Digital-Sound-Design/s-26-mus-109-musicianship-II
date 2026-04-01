@@ -263,11 +263,9 @@ author: ""
   - **Parameter Combination:** 3 Attack, 3 Release, 3 Ratio 
   - **Source:** Percussive loop or rhythmic music excerpt
   
-<!-- 
 
 ## Thursday
 
-- Journal 9 - no need to turn in journals - but we'll keep doing presentations
 - [The Illusion of Space as an Element of Recording](../lectures/week-9/space-2/)
 - Quiz 8  Practice – Compression 
   - **Practice Type:** Matching
@@ -277,8 +275,9 @@ author: ""
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday, May 1
 >
-> [Final Presentations](../assignments/final-presentation/) - April 16, 21, 23, 28
+> [Final Presentations](../assignments/final-presentation/) - April 17, 21, 23, 28
 
+<!-- 
 # Week 13 (4/7)
 
 ## Tuesday
@@ -295,7 +294,6 @@ author: ""
   -  Alex
 -  Plan final presentation dates starting on April 16
 
-> Note: Journals 8 and 9 are extra credit 
 
 ## Thursday
 
