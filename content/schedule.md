@@ -290,8 +290,7 @@ author: ""
   - **Makeup gain:** Matched (no loudness cue)
   - **Source:** Percussive loop or rhythmic music excerpt
 - Student journal presentation 9 and discussion
-  -  Cameron 
-  -  Alex
+  -  Cobly, Tavone
 -  Plan final presentation dates starting on April 16
 
 
