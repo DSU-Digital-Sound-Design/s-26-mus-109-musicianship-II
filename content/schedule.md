@@ -277,7 +277,6 @@ author: ""
 >
 > [Final Presentations](../assignments/final-presentation/) - April 17, 21, 23, 28
 
-<!-- 
 # Week 13 (4/7)
 
 ## Tuesday
@@ -293,6 +292,7 @@ author: ""
   -  Cobly, Tavone
 -  Plan final presentation dates starting on April 16
 
+<!-- 
 
 ## Thursday
 
