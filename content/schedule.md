@@ -270,7 +270,7 @@ author: ""
 - Quiz 8  Practice – Compression 
   - **Practice Type:** Matching
   - **Level:** 1
-  - **Parameter Combination:** 3 Attack, 3 Release, 3 Ratio 
+  - **Parameter Combination:** 5 attack, 5 release
   - **Source:** Percussive loop or rhythmic music excerpt
 
 > [Final Paper](../assignments/final-paper/) - DUE Friday, May 1
@@ -281,12 +281,10 @@ author: ""
 
 ## Tuesday
 
-- Quiz 8 – Compression (threshold only)
-  - **Ratio:** Fixed (e.g., 4:1)
-  - **Attack:** Fixed (moderate, e.g., 20–30 ms)
-  - **Release:** Fixed (moderate, e.g., 100–200 ms)
-  - **Threshold:** 3 discrete settings (high / medium / low)
-  - **Makeup gain:** Matched (no loudness cue)
+- Quiz 8  Practice – Compression 
+  - **Practice Type:** Matching
+  - **Level:** 1
+  - **Parameter Combination:** 5 attack, 5 release
   - **Source:** Percussive loop or rhythmic music excerpt
 - Student journal presentation 9 and discussion
   -  Cobly, Tavone
