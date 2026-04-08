@@ -11,16 +11,16 @@ separator = "##"
 ## What is Loudness? Perception vs. Physics
 
 - **Loudness:** How loud we *feel* or *perceive* a sound is.
-- It's related to physical sound pressure (amplitude), but it's **subjective**.
+- It's related to physical sound pressure (amplitude), but it's subjective.
 - Our ears hear different frequencies (pitches) at different perceived loudness levels, even if their physical intensity is the same.
 - Context matters! Our biases, expectations, and environment change how loud we think something is.
 
 {{% note %}}
 
-- Loudness is essentially the perceived intensity or magnitude of sound. While related to the physical measurement of sound pressure levels (SPL), it's fundamentally a psychological experience.
-- Our perception of loudness isn't just about the sound itself; it's influenced by non-sensory factors like personal biases, listening context, and even surprise or attention.
-- What one person considers "loud" can vary greatly based on cultural background, environment, and even their current emotional state. This subjectivity is key.
-- Remember the equal-loudness contours (like Fletcher-Munson curves): our hearing sensitivity varies significantly across frequencies, meaning a 1kHz tone might sound much louder than a 100Hz tone at the same physical SPL.
+- Loudness is the perceived intensity of sound — a psychological experience, not a physical measurement.
+- Many things beyond the sound itself shape perception: personal biases, listening context, and expectation all play a role.
+- What one person considers "loud" varies by cultural background, environment, and emotional state.
+- The equal-loudness contours (Fletcher-Munson curves) show this directly: hearing sensitivity varies across frequencies, so a 1kHz tone can sound much louder than a 100Hz tone at identical SPL.
 
 {{%/ note %}}
 
@@ -28,17 +28,17 @@ separator = "##"
 
 ## Loudness as a Recording Tool
 
-- Producers and engineers actively **shape loudness** in recordings.
+- Producers and engineers actively shape loudness in recordings.
 - They can make sounds seem louder or softer than they were in the original performance, creating unique sonic textures.
-- When analyzing recordings, we try to focus on the **sensation of loudness itself**, separate from performance energy (intensity) or sound color (timbre).
-- This requires **focused, critical listening**.
+- When analyzing recordings, we try to focus on the sensation of loudness itself, separate from performance energy (intensity) or sound color (timbre).
+- This requires focused, critical listening.
 
 {{% note %}}
 
-- Manipulating loudness is a fundamental technique in recording and mixing. It allows creators to craft a sonic landscape that might differ significantly from acoustic reality, emphasizing certain elements or creating specific moods.
-- As a recording element, loudness refers specifically to the perceived magnitude or amplitude sensation. It's useful to try and isolate this sensation from the performer's physical exertion (intensity) or the sound's timbral characteristics during analysis.
-- Developing the skill to listen specifically for loudness requires practice. It helps in approximating levels relative to a reference point (like the RDL) and tracking how loudness changes over time (the contour).
-- While loudness makes sounds audible and gives them presence, it doesn't automatically make them prominent (attention-grabbing).
+- Shaping loudness is one of the most basic tools in recording and mixing. A producer can make something sound louder or softer than it was in the room, shifting the feel of a performance entirely.
+- When listening analytically, try to isolate the sensation of loudness itself — separate from the performer's physical exertion (intensity) or the character of the sound (timbre).
+- That separation takes practice. Once you can hear loudness on its own, you can approximate levels against a reference like the RDL and follow how loudness shifts across the track.
+- Loudness gives sounds presence, but not necessarily prominence. A quiet sound can command more attention than a loud one.
 
 {{%/ note %}}
 
@@ -47,20 +47,20 @@ separator = "##"
 ## Loudness vs. Prominence: What's the Difference?
 
 - **Loudness:** How intense a sound *feels* subjectively.
-- **Prominence:** What grabs your **attention** in the mix.
+- **Prominence:** What grabs your attention in the mix.
 - **Key Idea:** The most prominent sound isn't always the most intense (SPL)
     - Example: A quiet but unexpected shaker entry might be more *prominent* than a constant loud pad sound.
 - Attention directs perception
 
 {{% note %}}
 
-- Our attention plays a huge role in listening: focusing intensely on a specific sound can actually make it seem more intense than it physically is relative to other sounds. This highlights the critical difference between *prominence* (what stands out psychologically) and *loudness* (the perceived intensity).
-- What makes a sound prominent? It could be its loudness, but it could also be factors like:
-    - **Novelty:** A new sound entering the texture.
-    - **Timbre:** A unique or contrasting sound color.
-    - **Spatial Location:** Appearing in an unexpected place in the stereo field.
-    - **Rhythm:** A syncopated or attention-grabbing rhythmic pattern.
-    - **Expectation:** Hearing something you were anticipating.
+- Attention changes what we hear. Focus on a quiet sound and it can feel louder than its physical level suggests — that's the gap between *prominence* and *loudness*.
+- Prominence has many sources besides level:
+    - Novelty — a new sound entering the texture
+    - Timbre — a contrasting or unusual sound color
+    - Spatial location — something appearing where you didn't expect it in the stereo field
+    - Rhythm — a syncopated or disruptive rhythmic pattern
+    - Expectation — hearing something you were waiting for
 
 {{%/ note %}}
 
@@ -68,14 +68,14 @@ separator = "##"
 
 ## Prominence Example & Musical Dynamics
 
-- **Dynamics (in Music):** More than just volume changes; It includes the *overall* shifts in expression, energy, and intensity, often involving changes in both loudness *and* timbre, articulation, and performance feel.
-- **Example:** Phil Spector's mix of "Let It Be" - the hi-hat entry (0:53) becomes highly *prominent* mainly due to its sudden appearance and timing (surprise!), not just its volume level.
+- **Dynamics (in Music):** More than volume — *overall* shifts in expression, energy, and intensity across loudness, timbre, articulation, and performance feel.
+- **Example:** "Let It Be" (Spector mix) — the hi-hat at 0:53 is *prominent* due to surprise, not volume.
 - <iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/let-it-be/1441164495?i=1441164738"></iframe>
 
 {{% note %}}
 
-- The "Let It Be" hi-hat example (at 0:53 in the Spector mix) clearly demonstrates prominence driven by context rather than sheer level. Its unexpected entry dramatically shifts the listener's focus and alters the perceived balance of the mix at that moment.
-- Remember that musical dynamics are a broad concept encompassing the expressive ebb and flow of energy. While loudness changes are a key part, dynamics also involve alterations in sound color (timbre), how notes are played (articulation), and the performer's conveyed energy, all working together. When analyzing, try to distinguish the specific sensation of loudness from these interconnected expressive elements.
+- The hi-hat at 0:53 in the Spector mix isn't unusually loud — but it stops the ear cold. Its timing and surprise do more than its level. That's prominence.
+- Keep dynamics broad when you use the term. Loudness is part of it, but dynamics also include timbre changes, articulation, and the raw energy of the performance. When analyzing, try to hear loudness as its own layer, separate from those other things.
 
 {{%/ note %}}
 
@@ -83,17 +83,17 @@ separator = "##"
 
 ## Why Measuring Perceived Loudness is Tricky
 
-- **Equal Loudness Contours:** Same physical level sounds different across frequencies.
-- **Subjective Increments:** Hard to agree on standard steps of "how much louder" something feels.
-- **Confusion with SPL:** Sound Pressure Level (dB) is physical, loudness is perceptual. They don't scale linearly.
-- **Limitations:** No perfect "perceived loudness meter" exists, though modern methods (like LUFS) try to approximate it better than simple peak or RMS meters.
+- **Equal Loudness Contours:** Same SPL sounds different across frequencies.
+- **Subjective Increments:** No agreed-upon steps for "how much louder."
+- **Confusion with SPL:** dB is physical; loudness is perceptual. Not the same scale.
+- **No perfect meter:** LUFS approximates it, but no method fully captures perception.
 
 {{% note %}}
 
-- The non-linear relationship between frequency and perceived loudness (equal-loudness contours) makes creating a single, simple loudness scale difficult.
-- Defining perceptual increments (like "twice as loud") is challenging because loudness is a subjective sensation, unlike objective measures like frequency (pitch) or physical sound pressure.
-- People often mistakenly equate decibels (SPL) directly with loudness. While related, doubling SPL doesn't necessarily double perceived loudness. This distinction is crucial.
-- Current measurement methods, including psychoacoustic models, struggle to capture the full complexity of human loudness perception across diverse sounds and contexts, though standards like LUFS provide a useful, standardized approximation.
+- Equal-loudness contours make a single linear scale impossible — the relationship between frequency and perceived loudness isn't uniform.
+- You can't easily define "twice as loud" because loudness is subjective, unlike frequency or physical sound pressure.
+- The dB/SPL confusion trips people up constantly. Doubling SPL does not double perceived loudness.
+- No measurement method fully captures how humans hear loudness across all sounds and contexts. LUFS is the best working approximation we have.
 
 ---
 
@@ -101,16 +101,16 @@ separator = "##"
 
 ## Measuring Loudness: Meet LUFS
 
-- **LUFS:** Stands for **Loudness Units Full Scale**.
-- It's the modern, standardized way to measure **perceived loudness** in digital audio.
+- **LUFS:** Stands for Loudness Units Full Scale.
+- It's the modern, standardized way to measure perceived loudness in digital audio.
 - **Goal:** To measure loudness more like humans actually *hear* it, unlike older methods (Peak, RMS dB).
 - **Why?** Creates consistency across platforms (broadcast, streaming, etc.). Essential for mastering today.
 
 {{% note %}}
 
-- LUFS is based on international standards like ITU-R BS.1770. Its development aimed to solve the problem of wildly different loudness levels between songs or programs on TV, radio, and streaming services.
-- A key feature is the use of 'K-weighting,' an EQ curve applied during measurement that emphasizes frequencies where human hearing is most sensitive and de-emphasizes very low and very high frequencies, better reflecting our perception.
-- This approach provides a much more meaningful measure of subjective loudness compared to simple peak levels (which ignore duration) or basic RMS levels (which don't account for frequency sensitivity).
+- LUFS is based on ITU-R BS.1770, developed to stop wildly mismatched loudness levels across TV, radio, and streaming.
+- K-weighting is built into the measurement: an EQ curve that boosts frequencies where hearing is most sensitive and pulls back the extremes, so the meter responds more like an ear would.
+- That's what makes it more useful than peak or RMS. Peak ignores duration; RMS ignores frequency sensitivity. LUFS accounts for both.
 
 {{%/ note %}}
 
@@ -118,21 +118,17 @@ separator = "##"
 
 ## Key LUFS Measurements
 
-- **Integrated LUFS:** Average loudness over the *entire* track.
-    - *Use:* Meeting overall loudness for streaming
-- **Short-Term LUFS:** Average loudness over the last 3 seconds.
-    - *Use:* Checking loudness of song sections.
-- **Momentary LUFS:** Average loudness over the last 400 milliseconds (approx).
-    - *Use:* Monitoring immediate loudness and peaks.
-- **True Peak (dBTP):** The absolute highest peak level, even *between* samples.
-    - *Use:* Preventing distortion/clipping during playback or data compression. 
+- **Integrated LUFS:** Average loudness over the entire track. *(streaming targets)*
+- **Short-Term LUFS:** Rolling 3-second average. *(section loudness)*
+- **Momentary LUFS:** Rolling 400ms average. *(immediate peaks)*
+- **True Peak (dBTP):** Highest peak, including between samples. *(prevents clipping)*
 
 {{% note %}}
 
-- Think of **Integrated LUFS** as the main value representing the track's overall loudness impression from start to finish. This is the number usually specified by streaming platforms.
-- **Short-Term LUFS** gives you a rolling window view, useful for seeing how loudness changes between different parts of the song or for maintaining consistency within a longer program.
-- **Momentary LUFS** reacts very quickly, showing brief spikes in loudness. Useful for catching sudden loud hits or ensuring dialogue intelligibility isn't momentarily overwhelmed.
-- **True Peak (dBTP)** is critical because digital audio can have peaks *between* the sampled points that standard peak meters miss. These 'inter-sample peaks' can cause clipping when the audio is converted back to analog or encoded with lossy codecs (like MP3/AAC). Controlling True Peak ensures clean playback everywhere. It's measured in dB relative to full scale (dBFS), but the 'TP' indicates inter-sample peak detection.
+- Integrated LUFS is the headline number: average loudness across the whole track, start to finish. Streaming platforms specify this one.
+- Short-Term LUFS is a three-second rolling window. Use it to see how loudness shifts between sections or to keep a longer program consistent.
+- Momentary LUFS moves fast — it catches brief spikes and shows immediate loudness at any moment.
+- True Peak catches peaks that fall between sampled points, which standard peak meters miss entirely. Those inter-sample peaks cause clipping when audio converts to analog or gets encoded as MP3/AAC. That's how you catch them before they cause problems.
 
 {{%/ note %}}
 
@@ -146,7 +142,7 @@ separator = "##"
 - This helps develop your ear for perceived loudness and understand how tracks meet delivery standards.
 
 {{% note %}}
-This slide provides practical steps. Routing audio through a DAW like Reaper allows real-time LUFS monitoring. Comparing different tracks highlights differences in mastering practices and target levels over time (e.g., the "loudness wars" vs. current streaming normalization). Tools like Melda's analyzer offer visualization of Momentary, Short-Term, and Integrated LUFS, as well as True Peak, making the concepts more tangible. Actively using these tools alongside listening is key to understanding their application.
+Route audio through Reaper and watch the LUFS meter in real time — it's one of the fastest ways to connect the numbers to what you're hearing. Compare mastered tracks from different eras: pre-streaming records are often much louder, and the loudness wars of the 2000s show up clearly in the Integrated readings. Melda's analyzer visualizes all four measurements at once, which helps when you're first learning to correlate them.
 {{%/ note %}}
 
 ---
@@ -159,9 +155,9 @@ This slide provides practical steps. Routing audio through a DAW like Reaper all
 
 {{% note %}}
 
-- **Loudness balance** is fundamental to mixing – it determines what elements are foreground, background, and how they interact. It's established through fader levels, processing, and arrangement.
-- The **Reference Dynamic Level (RDL)** isn't a specific dB or LUFS value, but rather the *holistic feeling* of the track's central intensity level – considering performance energy, tempo, instrumentation, etc. It acts as a perceptual anchor against which other loudness levels within the track are judged.
-- The **Track Loudness Contour** (or Program Dynamic Contour) represents the moment-to-moment changes in the overall loudness of the entire mix. Visualizing this shape helps understand the track's dynamic journey and structure.
+- Loudness balance is what mixing is about at the most basic level. Engineers set it with fader levels, processing, and arrangement — it determines foreground, background, and everything in between.
+- The RDL isn't a dB value you can read off a meter. It's the felt intensity level of the whole track — performance energy, tempo, and instrumentation rolled into one impression. You use it as a reference when judging how loud or soft any part of the track sounds in context.
+- The Track Loudness Contour is the shape of overall loudness across the whole track, moment to moment. When you can see and hear that shape, the track's structure becomes much more legible.
 
 {{%/ note %}}
 
@@ -169,10 +165,10 @@ This slide provides practical steps. Routing audio through a DAW like Reaper all
 
 ## Understanding the RDL (Reference Dynamic Level)
 
-- Think of it as the track's 'home base' or **central intensity level**.
+- Think of it as the track's 'home base' or central intensity level.
 - It's a *holistic feeling* reflecting the overall energy, performance force, emotion, and tempo.
-- We use this felt RDL as a **reference point** to judge how loud or soft other parts of the track feel *in context*.
-- Related to the idea of **"Crystallized Form"** - the track's core essence felt all at once.
+- We use this felt RDL as a reference point to judge how loud or soft other parts of the track feel *in context*.
+- Related to the idea of "Crystallized Form" - the track's core essence felt all at once.
 
 {{% note %}}
 
@@ -193,10 +189,10 @@ This slide provides practical steps. Routing audio through a DAW like Reaper all
 
 ## The Track Loudness Contour
 
-- The **overall loudness journey** of the entire track, moment by moment.
-- It's the **combined loudness** of *all* instruments and sounds mixed together.
+- The overall loudness journey of the entire track, moment by moment.
+- It's the combined loudness of *all* instruments and sounds mixed together.
 - Imagine a single master volume meter needle dancing throughout the song – that's the contour.
-- This changing shape adds **drama, movement, and structure** to the music.
+- This changing shape adds drama, movement, and structure to the music.
 
 {{% note %}}
 At the highest level of perspective, the track is distilled to a single sensation of loudness; we perceive this level to change continually and to form a contour across the entire track.
@@ -220,8 +216,8 @@ This image illustrates the hierarchy: the overall track loudness contour sits at
 
 ## Loudness Shapes and Structure
 
-- Loudness exists at different **levels**: the whole track, sections, individual sounds.
-- The **shape of the track loudness contour** is structurally important!
+- Loudness exists at different levels: the whole track, sections, individual sounds.
+- The shape of the track loudness contour is structurally important!
 - It can highlight sections (verse vs. chorus), build tension, and provide release.
 - Example: "Here Comes the Sun" uses loudness changes to define its form.
 
@@ -250,13 +246,13 @@ Figure 9.2 illustrates the changes in overall loudness level throughout the trac
 
 ## Beyond Loudness: The Confluence of Domains
 
-A recorded track isn't just sound – it's a **blend** of three key areas:
+A recorded track isn't just sound – it's a blend of three key areas:
 
 1.  **Music:** Notes, rhythms, harmony, melody, structure.
 2.  **Lyrics:** Words, meaning, story, poetic devices.
 3.  **Recording:** Mic choices, effects (reverb, delay), mixing decisions (panning, EQ, *loudness balance*), performance capture.
 
-These domains **merge and interact** to create the final *overall sound quality* and meaning.
+These domains merge and interact to create the final *overall sound quality* and meaning.
 
 {{% note %}}
 
@@ -271,9 +267,9 @@ These domains **merge and interact** to create the final *overall sound quality*
 ## Timbre: The Glue Between Domains
 
 - **Timbre:** The unique 'sound color' or quality of an instrument or voice. What makes a trumpet sound different from a violin playing the same note at the same loudness.
-- Timbre acts like **glue**, binding elements from Music, Lyrics, and Recording together through the actual *sound*.
-- It's not just *one* thing – it emerges from the blend (a **multi-domain gestalt**).
-- Things like the range of frequencies a sound occupies (**pitch density**) and the **loudness balance** of its internal parts contribute to its overall timbre.
+- Timbre acts like glue, binding elements from Music, Lyrics, and Recording together through the actual *sound*.
+- It's not just *one* thing – it emerges from the blend (a multi-domain gestalt).
+- The range of frequencies a sound occupies (pitch density) and the loudness balance of its internal parts contribute to its overall timbre.
 
 {{% note %}}
 
@@ -287,9 +283,9 @@ These domains **merge and interact** to create the final *overall sound quality*
 
 ## Deep Listening: Hearing More Detail
 
-- **Deep Listening:** Paying extremely close, focused **attention** to sound.
+- **Deep Listening:** Paying extremely close, focused attention to sound.
 - It means hearing the subtle details *within* sounds – the texture of a voice, the decay of a reverb, the attack of a drum.
-- Different from casual, everyday listening. Requires **intention**.
+- Different from casual, everyday listening. Requires intention.
 - Crucial for noticing the nuances of recording choices and how different elements interact.
 - Inspired by composers like Pauline Oliveros and Pierre Schaeffer.
 
@@ -306,9 +302,9 @@ These domains **merge and interact** to create the final *overall sound quality*
 
 ## Why Listen Deeply?
 
-- Helps you truly understand how **loudness works** alongside timbre, space, and performance within the mix.
-- Reveals how the **Music, Lyrics, and Recording domains blend** and influence each other.
-- Allows you to better perceive the track's **overall essence** or "Crystallized Form".
+- Helps you truly understand how loudness works alongside timbre, space, and performance within the mix.
+- Reveals how the Music, Lyrics, and Recording domains blend and influence each other.
+- Allows you to better perceive the track's overall essence or "Crystallized Form".
 - Unlocks a richer, more insightful appreciation of recorded music by revealing hidden sonic layers.
 
 {{% note %}}

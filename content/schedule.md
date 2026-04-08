@@ -287,26 +287,24 @@ author: ""
   - **Parameter Combination:** 5 attack, 5 release
   - **Source:** Percussive loop or rhythmic music excerpt
 - Student journal presentation 9 and discussion
-  -  Cobly, Tavone
--  Plan final presentation dates starting on April 16
+  -  Cobly, Justice
 
-<!-- 
 
 ## Thursday
 
-- Song pop party
+- Heardle?
+-  Plan final presentation dates starting on April 16
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 - Quiz 9 practice – Reverb (two single-parameter passes)
-  - **Part A: Distance via level**
+  - **Part A: Decay**
+    - Decay: varies
+    - Wet/dry mix: Fixed (50%)
+  - **Part B: Mix**
     - Decay: Fixed (≈1.2 s)
-    - Predelay: Fixed (0 ms)
-    - Wet/dry mix: 3 discrete levels
-  - **Part B: Separation via predelay**
-    - Decay: Fixed
-    - Wet/dry mix: Fixed
-    - Predelay: 0 ms / ~20 ms / ~60 ms
+    - Wet/dry mix: varies
   - **Source:** Dry, transient-rich source (voice, snare, pluck)
 
+<!-- 
 # Week 14 (4/14)
 
 ## Tuesday
