@@ -296,6 +296,7 @@ author: ""
 -  Plan final presentation dates starting on April 16
 - [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
 - Quiz 9 practice – Reverb (two single-parameter passes)
+  - Level 2 
   - **Part A: Decay**
     - Decay: varies
     - Wet/dry mix: Fixed (50%)
@@ -304,12 +305,12 @@ author: ""
     - Wet/dry mix: varies
   - **Source:** Dry, transient-rich source (voice, snare, pluck)
 
-<!-- 
 # Week 14 (4/14)
 
 ## Tuesday
 
 - Quiz 9 – Reverb (two single-parameter passes)
+  - Level 2 
   - **Part A: Distance via level**
     - Decay: Fixed (≈1.2 s)
     - Predelay: Fixed (0 ms)
@@ -319,40 +320,42 @@ author: ""
     - Wet/dry mix: Fixed
     - Predelay: 0 ms / ~20 ms / ~60 ms
   - **Source:** Dry, transient-rich source (voice, snare, pluck)
-- [Loudness, the Confluence of Domains and Deep Listening](../lectures/week-12/loudness/)
-
+- Student journal presentation 10 and discussion
+  - Tavone, Millie 
 
 >
 > Final Exam - ____
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
+<!-- 
 ## Thursday
 
-- Start final presentations
-  - Emmett 
-  - Aiden 
+- Sound Journal as a class 
 
 # Week 15 (4/21)
 
 ## Tuesday
 
-- Student journal presentation
-  - Zakry 
-  - Cameron  
+- Herdle 
+- Me present sound journal? 
 
 ## Thursday
 
 - Final Journal Presentations
-  - Reiter 
-  - David
+  - Dylan 
+  - Shea  
 
 # Week 16 (4/28)
 
 ## Tuesday
 
 - Final Journal Presentations
-  - Jordan 
-  - Alex
+  - Tavone 
+  - Millie 
 
+## Thursday 
 
+- Final Journal Presentations
+  - Justice
+  - Colby 
  -->
