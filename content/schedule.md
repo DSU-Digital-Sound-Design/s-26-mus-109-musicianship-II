@@ -327,11 +327,11 @@ author: ""
 > Final Exam - ____
 > Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
 
-<!-- 
 ## Thursday
 
 - Sound Journal as a class 
 
+<!-- 
 # Week 15 (4/21)
 
 ## Tuesday
