@@ -331,7 +331,6 @@ author: ""
 
 - Sound Journal as a class 
 
-<!-- 
 # Week 15 (4/21)
 
 ## Tuesday
@@ -358,4 +357,5 @@ author: ""
 - Final Journal Presentations
   - Justice
   - Colby 
+<!-- 
  -->
