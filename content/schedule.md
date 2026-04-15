@@ -329,7 +329,8 @@ author: ""
 
 ## Thursday
 
-- Sound Journal as a class 
+- [Questions to Guide Listening](../lectures/week-5/guided-listening/)
+  - Pick a song and analyze it using the questions in the guided listening document
 
 # Week 15 (4/21)
 
