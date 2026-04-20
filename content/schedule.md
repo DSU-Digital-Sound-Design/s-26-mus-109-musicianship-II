@@ -337,7 +337,7 @@ author: ""
 ## Tuesday
 
 - Herdle 
-- Me present sound journal? 
+- [Waxahatchee - Fire](../lectures/week-15/waxahatchee-fire/) 
 
 ## Thursday
 
