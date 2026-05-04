@@ -324,8 +324,7 @@ author: ""
   - Tavone, Millie 
 
 >
-> Final Exam - ____
-> Will include WebTET exercises for parametric equalization, dynamic compression, and reverberation.
+<!-- > [Final Exam](../assignments/final-exam/) - 45-item WebTET listening exam covering parametric EQ, dynamic compression, and reverberation (drawn from Quizzes 0–9). -->
 
 ## Thursday
 
